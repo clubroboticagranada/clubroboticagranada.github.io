@@ -16,6 +16,8 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
  * [Createc 3D](https://createc3d.com/)
  * [Editorial Donostiarra](https://www.editorialdonostiarra.com/)
 ### Localización
+
 [Mapa](https://goo.gl/maps/apqiUdvcC9s)
 ### Contáctanos
+
 [clubroboticagranada@gmail.com](mailto:clubroboticagranada@gmail.com)
