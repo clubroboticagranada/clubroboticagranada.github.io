@@ -10,7 +10,6 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
  * [APTA (Asociación del Profesorado de Tecnología de Andalucía)](https://aptandalucia.wordpress.com/)
  * [Red Andaluza de Robótica y Tecnología Educativa](http://roboticaytecnologia.org/)
  * [Oficina de Software Libre de la UGR](http://osl.ugr.es/)
-
 ### Organizaciones y Entidades que colaboran
  * [Ayuntamiento de Albolote](https://albolote.org/)
  * [Beep](https://www.beep.es/tienda-de-informatica/32471/granada)
