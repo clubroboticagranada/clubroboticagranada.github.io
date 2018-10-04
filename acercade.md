@@ -1,13 +1,19 @@
+---
 layout: page
 title: Acerca de
 permalink: /acercade/
+---
 
-Some information about you!
+### ¿Quienes somos?
+Somos una Organización de ayuda a la difusión y democratización de la tecnología, la programación y la robótica en la sociedad. constituida por personas entusiastas de la Tecnología y la Ciencia.
 
-### More Information
+### Organizaciones que promueven
 
-A place to include any other types of information that you'd like to include about yourself.
+### Organizaciones que colaboran
 
-### Contact me
+### Localización
 
-[email@domain.com](mailto:email@domain.com)
+
+### Contactanos
+
+[clubroboticagranada@gmail.com](mailto:clubroboticagranada@gmail.com)
