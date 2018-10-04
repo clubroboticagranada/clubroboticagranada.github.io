@@ -1,1 +1,1 @@
-Sólo tienes que unirte a [este grupo de Telegram]() y rellenar el [siguiente formulario]() para integrarte en el club.
+Sólo tienes que unirte a [este grupo de Telegram](https://www.google.com/url?q=https://t.me/joinchat/AEVZ6wvdX9C4blmVo1shRA&sa=D&ust=1538665386222000&usg=AFQjCNGEGXVWu5sC84PxxwTNmHyJQyGc_A) y rellenar el [siguiente formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-wyFqbonBeIuQ7qvq7XbIouzJyOh4JJPdNsDl1xsroRck7A/viewform) para integrarte en el club.
