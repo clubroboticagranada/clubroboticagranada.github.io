@@ -24,4 +24,4 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 ### Contáctanos
 [clubroboticagranada@gmail.com](mailto:clubroboticagranada@gmail.com)
 
-![](images/logos/logo_apta.png)
+![Logo APTA](/images/logos/logo_apta.png)
