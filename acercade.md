@@ -8,6 +8,7 @@ permalink: /acercade/
 Somos una Organización de ayuda a la difusión y democratización de la tecnología, la programación y la robótica en la sociedad, constituida por personas entusiastas de la Tecnología y la Ciencia.
 
 ### Organizaciones que promueven
+
 |Organización | Logo|
 |-------------|-----|
  |[APTA (Asociación del Profesorado de Tecnología de Andalucía)](https://aptandalucia.wordpress.com/)|![](/images/logos/logo_apta_100.png)|
@@ -15,6 +16,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 |[Oficina de Software Libre de la UGR](http://osl.ugr.es/) |![](/images/logos/logo_osl_100.jpeg)|
 
 ### Organizaciones y Entidades que colaboran
+
 |Organización / Entidad | Logo|
 |-----------------------|-----|
  |[Ayuntamiento de Albolote](https://albolote.org/)|![](/images/logos/logo_ayto_albolote_100.png)|
