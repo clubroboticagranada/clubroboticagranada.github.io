@@ -8,7 +8,7 @@ permalink: /acercade/
 Somos una Organización de ayuda a la difusión y democratización de la tecnología, la programación y la robótica en la sociedad, constituida por personas entusiastas de la Tecnología y la Ciencia.
 
 ### Organizaciones que promueven
- * [APTA (Asociación del Profesorado de Tecnología de Andalucía)](https://aptandalucia.wordpress.com/)
+ * [APTA (Asociación del Profesorado de Tecnología de Andalucía)](https://aptandalucia.wordpress.com/) ![Logo APTA](/images/logos/logo_apta.png)
  * [Red Andaluza de Robótica y Tecnología Educativa](http://roboticaytecnologia.org/)
  * [Oficina de Software Libre de la UGR](http://osl.ugr.es/)
 
@@ -23,5 +23,3 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 ### Contáctanos
 [clubroboticagranada@gmail.com](mailto:clubroboticagranada@gmail.com)
-
-![Logo APTA](/images/logos/logo_apta.png)
