@@ -10,7 +10,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 ### Organizaciones que promueven
 
 |Organización | Logo|
-|-------------|-----|
+|-------------|---------------|
  |[APTA (Asociación del Profesorado de Tecnología de Andalucía)](https://aptandalucia.wordpress.com/)|![](/images/logos/logo_apta_100.png)|
  |[Red Andaluza de Robótica y Tecnología Educativa](http://roboticaytecnologia.org/)|![](/images/logos/logo_red_andaluza_robotica_100.png)|
 |[Oficina de Software Libre de la UGR](http://osl.ugr.es/) |![](/images/logos/logo_osl_100.jpeg)|
