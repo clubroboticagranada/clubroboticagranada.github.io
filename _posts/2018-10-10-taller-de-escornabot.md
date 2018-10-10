@@ -22,8 +22,8 @@ El taller se realizará en las instalaciones de la OAL de Albolote.
 
 [Dirección y plano de localización.](https://www.google.com/maps/place/37%C2%B013'39.2%22N+3%C2%B039'05.2%22W/@37.22756,-3.65144,16z/data=!4m5!3m4!1s0x0:0x0!8m2!3d37.22756!4d-3.65144?q=37.227560,-3.651440&ll=37.227560,-3.651440&z=16&shorturl=1)
 
-Organiza: Club de Robótica de Granada.
+**Organiza: Club de Robótica de Granada.**
 
-Colabora: Ayuntamiento de Albolote, Red Andaluza de Robótica y Tecnología Educativa.
+**Colabora: Ayuntamiento de Albolote, Red Andaluza de Robótica y Tecnología Educativa.**
 
 ### Inscríbete en el siguiente [ENLACE](https://goo.gl/forms/XVUC2n4mPsoNOD462)
