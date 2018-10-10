@@ -25,3 +25,6 @@ Dirección y plano de localización.
 Organiza: Club de Robótica de Granada.
 
 Colabora: Ayuntamiento de Albolote, Red Andaluza de Robótica y Tecnología Educativa.
+
+### Inscríbete en el siguiente [ENLACE](https://goo.gl/forms/XVUC2n4mPsoNOD462)
+
