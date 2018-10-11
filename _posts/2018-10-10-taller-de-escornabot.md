@@ -16,6 +16,8 @@ El objetivo es descubrir el mundo de la robótica y la programación.
 
 ### FECHA: Martes 6 de noviembre de 17:30 a 19:00 horas.
 
+###### El taller es TOTALMENTE GRATUITO.
+
 Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
 
 El taller se realizará en las instalaciones de la OAL de Albolote.
