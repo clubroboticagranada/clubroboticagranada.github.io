@@ -2,8 +2,8 @@
 
 # Jekyll Now
 | Row 1 | Value 1 | valor 3 |
-| :---- |:------: | ------:|
-|**Row 2** | **Value 2** | valor 3 |
+ :---- |:------: | ------:|
+**Row 2** | **Value 2** | valor 3 |
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
