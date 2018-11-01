@@ -5,7 +5,7 @@ title: Admitidos en el taller de Escornabot
 
 ![](/images/barra.gif)
 
-## RELACIÓN DE ADMITID@S PARA EL TALLER DE ESCORNABOT (7-11-2018)
+## RELACIÓN DE ADMITID@S PARA EL TALLER DE ESCORNABOT (6-11-2018)
 
 Nº | Nombre y apellidos del chic@ | Edad | Curso | Colegio |
 :--: | -- | :--: | :--: | -- |
