@@ -25,8 +25,7 @@ A continuación ##Federico Coca## nos enseñó, en vivo, cómo funciona la Alham
 La siguiente ponencia corrió a cargo de *Manuel Delgado*, mostrándonos la placa EDUBÁSICA [ENLACE](http://www.practicasconarduino.com/edubasica), un recurso tecnológico para trabajar con Arduino de manera fácil y eficiente.
 
 
-<img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/manuel.JPG
-" width="500" />
+<img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/manuel.JPG" width="500" />
 
 
 Todo un lujo contar en el club con un grupo de personas de tan alto nivel.
