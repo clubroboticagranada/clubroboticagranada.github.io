@@ -9,9 +9,9 @@ El primer día se presentó el club, los objetivos que queremos alcanzar y las a
 
 El sábado, *Eladio Delgado* realizó una ponencia titulada “Introducción a las FPGA’s libres” y presentó la ALHAMBRA II [ENLACE](https://alhambrabits.com/). 
 
-<img src="https://github.com/clubroboticagranada/clubroboticagranada.github.io/blob/master/images/eladio.JPG" width="250" />
+<img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/eladio.JPG" width="500" />
 
-<img src="https://clubroboticagranada.github.io/blob/master/images/eladio.JPG" width="500" />
+
 
 
 
