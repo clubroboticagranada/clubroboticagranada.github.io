@@ -11,16 +11,17 @@ El sábado, **Eladio Delgado** realizó una ponencia titulada “Introducción a
 
 <img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/eladio.JPG" width="500" />
 
-
+[(Enlace a la presentación)](https://github.com/EladioDM/Charlas/tree/master/2019-02-09%20Introduccion%20a%20las%20FPGAs%20Libres)
 
 
 
 A continuación **Federico Coca** nos enseñó, en vivo, cómo funciona la Icezum Alhambra y la Alhambra II. 
 
-[(Enlace a la presentación)](https://github.com/fgcoca/Chats/tree/master/9-2-19-Ponencia-FPGAs-Congreso-Tecnologia-Malaga)
+
 
 <img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/fede.JPG" width="500" />
 
+[(Enlace a la presentación)](https://github.com/fgcoca/Chats/tree/master/9-2-19-Ponencia-FPGAs-Congreso-Tecnologia-Malaga)
 
 
 
