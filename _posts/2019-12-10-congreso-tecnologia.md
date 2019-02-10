@@ -17,7 +17,7 @@ El sábado, *Eladio Delgado* realizó una ponencia titulada “Introducción a l
 
 A continuación *Federico Coca* nos enseñó, en vivo, cómo funciona la Alhambra II.
 
-<img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/fede.JPG" width="250" />
+<img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/fede.JPG" width="500" />
 
 
 
