@@ -15,7 +15,7 @@ El sábado, **Eladio Delgado** realizó una ponencia titulada “Introducción a
 
 
 
-A continuación **Federico Coca** nos enseñó, en vivo, cómo funciona la Izcezum Alhambra y la Alhambra II. 
+A continuación **Federico Coca** nos enseñó, en vivo, cómo funciona la Icezum Alhambra y la Alhambra II. 
 
 [(Enlace a la presentación)](https://github.com/fgcoca/Chats/tree/master/9-2-19-Ponencia-FPGAs-Congreso-Tecnologia-Malaga)
 
