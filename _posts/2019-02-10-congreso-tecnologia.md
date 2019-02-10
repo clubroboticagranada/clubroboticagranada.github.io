@@ -34,6 +34,9 @@ La siguiente ponencia corrió a cargo de **Manuel Hidalgo**, mostrándonos la pl
 <img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/manuel.JPG" width="500" />
 
 
+
+[(Enlace a la presentación)](https://github.com/EduBasica/presentaciones/blob/master/doc/CongresoNacionalTecnologia_feb2019.pdf)
+
 **Todo un lujo contar en el club con un grupo de personas de tan alto nivel.**
 
 
