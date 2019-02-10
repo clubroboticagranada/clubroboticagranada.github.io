@@ -7,6 +7,10 @@ El Club de tecnología, programación y robótica de Granada ha participado en e
 
 El primer día se presentó el club, los objetivos que queremos alcanzar y las actividades realizadas hasta ahora, así como los proyectos en los que estamos trabajando.
 
+
+[(Enlace a la presentación)](https://github.com/jajulca/Presentaciones/blob/master/Presentaci%C3%B3n%20CLUB.pdf)
+
+
 El sábado, **Eladio Delgado** realizó una ponencia titulada “Introducción a las FPGA’s libres” y presentó la ALHAMBRA II [(enlace)](https://alhambrabits.com/). 
 
 <img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/eladio.JPG" width="500" />
