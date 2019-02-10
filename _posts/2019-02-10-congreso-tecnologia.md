@@ -24,7 +24,7 @@ A continuación **Federico Coca** nos enseñó, en vivo, cómo funciona la Icezu
 
 
 
-La siguiente ponencia corrió a cargo de **Manuel Delgado**, mostrándonos la placa EDUBÁSICA [(enlace)](http://www.practicasconarduino.com/edubasica), un recurso tecnológico para trabajar con Arduino de manera fácil y eficiente.
+La siguiente ponencia corrió a cargo de **Manuel Hidalgo**, mostrándonos la placa EDUBÁSICA [(enlace)](http://www.practicasconarduino.com/edubasica), un recurso tecnológico para trabajar con Arduino de manera fácil y eficiente.
 
 
 <img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/manuel.JPG" width="500" />
