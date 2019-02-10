@@ -1,3 +1,6 @@
+* Participación en el primer congreso nacional de tecnología en Málaga con tres ponencias. 8 y 9 de Febrero de 2019.
+* Taller de Diseño e impresión 3D. 25 participantes. 27 de Noviembre de 2018, 15 y 22 de Enero de 2019.
+* Taller de Escornabot para chic@s. 25 participantes acompañados de sus padres. 6 de Noviembre de 2018.
 * Taller de Node-Red con Raspberry pi, con una participación de 20 personas. 5 y 26 de Abril de 2018.
 * Taller de processing nivel inicial, con una participación de 25 personas. 6 y 13 de Marzo de 2018.
 * Taller de Edubásica, con una participación de 25 personas. 12 de Diciembre de 2017 y 16 de Enero de 2018.
