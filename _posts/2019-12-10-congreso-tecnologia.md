@@ -11,12 +11,16 @@ El sábado, *Eladio Delgado* realizó una ponencia titulada “Introducción a l
 
 <img src="https://github.com/clubroboticagranada/clubroboticagranada.github.io/blob/master/images/eladio.JPG" width="250" />
 
-
-
+<img src="https://clubroboticagranada.github.io/blob/master/images/eladio.JPG" width="500" />
 
 
 
 A continuación *Federico Coca* nos enseñó, en vivo, cómo funciona la Alhambra II.
+
+<img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/fede.JPG" width="250" />
+
+
+
 
 La siguiente ponencia corrió a cargo de *Manuel Delgado*, mostrándonos la placa EDUBÁSICA [ENLACE](http://www.practicasconarduino.com/edubasica), un recurso tecnológico para trabajar con Arduino de manera fácil y eficiente.
 
