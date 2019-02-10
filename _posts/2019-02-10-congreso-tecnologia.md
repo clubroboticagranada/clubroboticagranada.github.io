@@ -30,7 +30,7 @@ La siguiente ponencia corrió a cargo de **Manuel Hidalgo**, mostrándonos la pl
 <img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/manuel.JPG" width="500" />
 
 
-Todo un lujo contar en el club con un grupo de personas de tan alto nivel.
+**Todo un lujo contar en el club con un grupo de personas de tan alto nivel.**
 
 
 
