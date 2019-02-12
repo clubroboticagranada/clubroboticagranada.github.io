@@ -4,7 +4,7 @@ title: Día internacional de la mujer y la niña en la ciencia
 ---
 
 
-Día Internacional de la Mujer y la Niña en la Ciencia 2019
+
 
 
 <img src="http://clubroboticagranada.github.io/images/angela.jpg" width="500" />
@@ -24,6 +24,8 @@ En ellos han participado estudiantes de secundaria de centros de la provincia de
 El 11 de febrero, el Día Internacional de la Mujer y la Niña en la Ciencia pretende visibilizar el trabajo de las científicas, contribuyendo a crear roles femeninos en los ámbitos de la ciencia y la ingeniería, promoviendo nuevas prácticas que favorezcan la igualdad de género en el ámbito científico.
 
 <img src="http://clubroboticagranada.github.io/images/feria_ingenierias_cartel.jpg" width="500" />
+
+
  ### Video en las noticias de Canal Sur ###
 
 
