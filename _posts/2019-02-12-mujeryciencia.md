@@ -7,7 +7,7 @@ title: Día internacional de la mujer y la niña en la ciencia
 Día Internacional de la Mujer y la Niña en la Ciencia 2019
 
 
-<img src="/home/tecno/Documentos/clubroboticagranada.github.io/images/angela.jpg" width="500" />
+<img src="http://clubroboticagranada.github.io/images/angela.jpg" width="500" />
 
 
 El club de programación, tecnología y robótica de Granada ha participado en la feria de las ingenieras, celebrada en la facultad de ciencias de Granada, organizadas por la UGR, para conmemorar el día internacional de la mujer y la niña en la ciencia.
