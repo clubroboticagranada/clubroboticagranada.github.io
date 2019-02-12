@@ -14,7 +14,7 @@ El club de programación, tecnología y robótica de Granada ha participado en l
 
 <img src="http://clubroboticagranada.github.io/images/manuel1.jpeg" width="500" />
 
-Los talleres de “Montando circuitos con un lápiz” y “Robot Escornabot” han sido dirigidos por ***Ángela Pozo Mateos***XXXXXX, estudiante de ingeniería informática, y por ***Manuel Hidalgo***, miembros del club.
+Los talleres de “Montando circuitos con un lápiz” y “Robot Escornabot” han sido dirigidos por ***Ángela Pozo Mateos***, estudiante de ingeniería informática, y por ***Manuel Hidalgo***, miembros del club.
 
 En ellos han participado estudiantes de secundaria de centros de la provincia de Granada.
 
@@ -26,7 +26,9 @@ El 11 de febrero, el Día Internacional de la Mujer y la Niña en la Ciencia pre
 <img src="http://clubroboticagranada.github.io/images/feria_ingenierias_cartel.jpg" width="500" />
 
 
+
  ### Video en las noticias de Canal Sur ###
+ 
 
 
 [![video](https://img.youtube.com/vi/lNMmKzEC2JE/maxresdefault.jpg)](https://www.youtube.com/embed/lNMmKzEC2JE)
