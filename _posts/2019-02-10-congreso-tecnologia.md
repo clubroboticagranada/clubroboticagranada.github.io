@@ -5,8 +5,7 @@ title: Participación en el 1er congreso nacional de Tecnología
 
 El Club de tecnología, programación y robótica de Granada ha participado en el 1er Congreso Nacional de Tecnología, celebrado en Málaga los días 8 y 9 de febrero.
 
-El primer día se presentó el club, los objetivos que queremos alcanzar y las actividades realizadas hasta ahora, así como los proyectos en los que estamos trabajando. [(Enlace a la presentación)](https://github.com/jajulca/Presentaciones/blob/master/Presentaci%C3%B3n%20CLUB.pdf)
-
+El primer día se presentó el club, los objetivos que queremos alcanzar y las actividades realizadas hasta ahora, así como los proyectos en los que estamos trabajando. [(Enlace a la presentación)](https://github.com/jajulca/Presentaciones/blob/master/Presentacion_club/Presentaci%C3%B3n%20CLUB.pdf)
 
 
 
