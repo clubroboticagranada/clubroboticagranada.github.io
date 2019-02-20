@@ -21,4 +21,4 @@ El ***club de tecnología, programación y robótica de Granada*** oferta un tal
 
 ### [Material del taller](https://github.com/pedroruizf/taller_escornabot) ###
 
-Para inscribirse en el taller [**AQUÍ**](), es totalmente gratuito y será asignado por riguroso orden de inscripción.
+Para inscribirse en el taller [**AQUÍ**](https://goo.gl/forms/jmg4zCQe8FMLqkEp1), es totalmente gratuito y será asignado por riguroso orden de inscripción.
