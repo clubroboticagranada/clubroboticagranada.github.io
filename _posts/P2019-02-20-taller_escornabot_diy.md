@@ -19,6 +19,6 @@ El ***club de tecnología, programación y robótica de Granada*** oferta un tal
 * Contenidos: Programación de Escornabot DIY
 * Material a traer: Ordenador con [IDE de Arduino](https://www.arduino.cc/en/Main/Software) instalado.
 
-### [Material del curso](https://github.com/pedroruizf/taller_escornabot) ###
+### [Material del taller](https://github.com/pedroruizf/taller_escornabot) ###
 
 Para inscribirse en el taller [**AQUÍ**](), es totalmente gratuito y será asignado por riguroso orden de inscripción.
