@@ -3,7 +3,7 @@ layout: post
 title: Taller Escornabot DIY
 ---
 
-El ***club de tecnología, programación y robótica de Granada*** oferta un taller de construcción y programación del Robot libre Escornabot en su versión DIY (Do IT Yourself), que constará de dos sesiones.
+El ***club de tecnología, programación y robótica de Granada*** oferta un taller de construcción y programación del Robot libre Escornabot en su versión DIY (Do IT Yourself), impartido por *Pedro Ruiz*, que constará de dos sesiones.
 
 <img src="http://clubroboticagranada.github.io/images/escornabot_diy.jpg" width="500" />
 
