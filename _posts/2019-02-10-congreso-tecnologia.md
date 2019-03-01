@@ -13,7 +13,7 @@ El sábado, **Eladio Delgado** realizó una ponencia titulada “Introducción a
 
 <img src="https://raw.githubusercontent.com/clubroboticagranada/clubroboticagranada.github.io/master/images/eladio.JPG" width="500" />
 
-[(Enlace a la presentación)](https://github.com/EladioDM/Charlas/tree/master/2019-02-09%20Introduccion%20a%20las%20FPGAs%20Libres)
+[(Enlace a la presentación)](https://github.com/EladioDM/Slides/blob/master/2019-02-09%20Introduccion%20a%20las%20FPGAs%20Libres%20-%20I%20Congreso%20Tecnologia%20Malaga/2019-02-09%20Introduccion%20a%20las%20FPGAs%20Libres%20-%20I%20Congreso%20Tecnologia%20Malaga.pdf)
 
 
 
