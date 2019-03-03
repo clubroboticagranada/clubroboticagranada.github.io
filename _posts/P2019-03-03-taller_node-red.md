@@ -2,7 +2,7 @@
 layout: post
 title: Taller Node-Red
 ---
-TALLER DE [NODE-RED](https://nodered.org/) CON RASPBERRY PI 3
+## TALLER DE [NODE-RED](https://nodered.org/) CON RASPBERRY PI 3 ##
 
 
 El ***club de tecnología, programación y robótica de Granada*** organiza un taller de NODE-RED con Raspberry Pi 3, impartido por ***José María Fernández Domenech***, ingeniero técnico de telecomunicaciones, miembro del Club de Robótica y colaborador de la Red Andaluza de Robótica y Tecnología.
