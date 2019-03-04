@@ -2,7 +2,7 @@
 layout: post
 title: Taller Node-Red
 ---
-## TALLER DE [NODE-RED](https://nodered.org/) CON RASPBERRY PI 3 ##
+## TALLER DE [NODE-RED](https://nodered.org/) CON RASPBERRY PI ##
 
 <img src="http://clubroboticagranada.github.io/images/node-red.png" width="800" />
 
