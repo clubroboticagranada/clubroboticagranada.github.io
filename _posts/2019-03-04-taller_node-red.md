@@ -2,9 +2,11 @@
 layout: post
 title: Taller Node-Red y el internet de las cosas
 ---
-## TALLER DE [NODE-RED](https://nodered.org/) Y EL INTERNET DE LAS COSAS ##
+
 
 <img src="http://clubroboticagranada.github.io/images/node-red.png" width="800" />
+
+## TALLER DE [NODE-RED](https://nodered.org/) Y EL INTERNET DE LAS COSAS ##
 
 El ***club de tecnología, programación y robótica de Granada*** organiza un taller de NODE-RED y el internet de las cosas con Raspberry Pi, impartido por ***José María Fernández Domenech***, ingeniero técnico de telecomunicaciones, miembro del Club de Robótica y colaborador de la Red Andaluza de Robótica y Tecnología.
 
