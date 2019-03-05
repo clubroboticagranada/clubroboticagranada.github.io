@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller Node-Red
+title: Taller Node-Red y el internet de las cosas
 ---
 ## TALLER DE [NODE-RED](https://nodered.org/) Y EL INTERNET DE LAS COSAS ##
 
