@@ -9,7 +9,7 @@ title: Introducción a las FPGA's libres
 </p>
 
 
-El próximo 4 de abril se va a celebrar un taller de FPGAs libres y trabajaremos con la [ALHAMBRA II.](https://alhambrabits.com/alhambra/)
+Programamos un nuevo taller sobre FPGAs libres y trabajaremos con la [ALHAMBRA II.](https://alhambrabits.com/alhambra/)
 
 El taller será impartido por ***Eladio Delgado (@EladioDM),*** creador de la ALHAMBRA y ***Federico Coca*** **(@fgcoca)**, profesor del IES Virgen de las Nieves.
 
