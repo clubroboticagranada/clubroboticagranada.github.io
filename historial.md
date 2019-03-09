@@ -1,4 +1,4 @@
-* Taller de construcción y programación del Robot libre Escornabot en su versión DIY. 7 y 14 de marzo de 2019. 24 participantes.
+* Taller de construcción y programación del robot libre Escornabot en su versión DIY. 7 y 14 de marzo de 2019. 24 participantes.
 * Participación en el primer congreso nacional de tecnología en Málaga con tres ponencias. 8 y 9 de Febrero de 2019.
 * Taller de Diseño e impresión 3D. 25 participantes. 27 de Noviembre de 2018, 15 y 22 de Enero de 2019.
 * Taller de Escornabot para chic@s. 25 participantes acompañados de sus padres. 6 de Noviembre de 2018.
