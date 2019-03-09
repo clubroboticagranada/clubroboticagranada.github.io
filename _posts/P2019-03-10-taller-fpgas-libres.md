@@ -23,10 +23,10 @@ El taller será impartido por ***Eladio Delgado (@EladioDM),*** creador de la AL
 * Contenidos: Diseño y funcionamiento de la **Alhambra II.**
 * Material a traer (opcional): Alhambra Icezum o Alhambra II y ordenador portátil con Icestudio instalado.
 
-#### Enlaces de descarga: ####
+#### Enlaces: ####
 
 [Icestudio](https://github.com/FPGAwars/icestudio/releases)
-
+[ALHAMBRA II.](https://alhambrabits.com/alhambra/)
 
 #### Inscripción ####
 Inscríbete en el siguiente [**enlace**](https://goo.gl/forms/jXwGAsZJHW9xH7lE3). 
