@@ -29,4 +29,6 @@ El taller será impartido por ***Eladio Delgado (@EladioDM),*** creador de la AL
 
 
 #### Inscripción ####
-Inscríbete en el siguiente [**enlace**](https://goo.gl/forms/jXwGAsZJHW9xH7lE3). El taller es gratuito y será asignado por riguroso orden de inscripción hasta un total de **24 asistentes**.
+Inscríbete en el siguiente [**enlace**](https://goo.gl/forms/jXwGAsZJHW9xH7lE3). 
+
+El taller es gratuito y será asignado por riguroso orden de inscripción hasta un total de **24 asistentes**.
