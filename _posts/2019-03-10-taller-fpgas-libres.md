@@ -3,7 +3,7 @@ layout: post
 title: Introducción a las FPGA's libres
 ---
 
-<p align="center" />
+<p align="center" >
 <img src="/images/alh.jpg" width="350" height="280"/>
 
 </p>
