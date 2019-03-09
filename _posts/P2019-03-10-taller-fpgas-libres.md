@@ -19,7 +19,7 @@ El taller será impartido por ***Eladio Delgado (@EladioDM),*** creador de la AL
 
 
 * Lugar: [OAL Albolote](https://goo.gl/maps/apqiUdvcC9s)
-* Día / Hora: **04/04/2019** de 17:00 a 19:00.
+* Día / Hora: **4 de Abril de 2019** de 17:00 a 19:00.
 * Contenidos: Diseño y funcionamiento de la **Alhambra II.**
 * Material a traer (opcional): Alhambra Icezum o Alhambra II y ordenador portátil con Icestudio instalado.
 
