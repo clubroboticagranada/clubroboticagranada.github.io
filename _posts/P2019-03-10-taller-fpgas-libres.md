@@ -4,7 +4,7 @@ title: Introducción a las FPGA's libres
 ---
 
 <p align="center" />
-<img src="/images/alh.jpg" width="300" height="300"/>
+<img src="/images/alh.jpg" width="250" height="250"/>
 
 </p>
 
