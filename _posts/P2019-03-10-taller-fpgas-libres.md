@@ -27,7 +27,7 @@ El taller será impartido por ***Eladio Delgado (@EladioDM),*** creador de la AL
 
 [Icestudio](https://github.com/FPGAwars/icestudio/releases)
 
-[ALHAMBRA II.](https://alhambrabits.com/alhambra/)
+[ALHAMBRA BITS.](https://alhambrabits.com/)
 
 #### Inscripción ####
 Inscríbete en el siguiente [**enlace**](https://goo.gl/forms/jXwGAsZJHW9xH7lE3). 
