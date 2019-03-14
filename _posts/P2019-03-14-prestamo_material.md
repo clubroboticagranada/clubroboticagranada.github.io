@@ -23,7 +23,7 @@ El material será cedido según las siguientes instrucciones:
 - La Shield EDUBÁSICA en lotes de 10 unidades.
 - El periodo de préstamo será de UNA SEMANA.
 - Se adjudicarán por riguroso orden de petición.
-- La solicitud se realiza cumplimentando el siguiente [** formulario.** ](https://goo.gl/forms/xdPdXnzZsuenQGiu1)
+- La solicitud se realiza cumplimentando el siguiente [formulario.](https://goo.gl/forms/xdPdXnzZsuenQGiu1)
 - La entrega y recogida de material se acordará por correo electrónico con los interesados/as.
 - Si no hubiera peticiones en espera, se podrá solicitar una ampliación del plazo por una semana más.
 - En el caso de los Escornabot, se ceden sin pilas, debiendo los interesados/as suministrarlas.
