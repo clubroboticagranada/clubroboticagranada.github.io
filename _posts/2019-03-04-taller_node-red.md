@@ -26,5 +26,7 @@ El taller se desarrollará en dos sesiones.
 
 ##### Material necesario: Portátil y Raspberry Pi #####
 
+#### [Instrucciones para configurar la Raspberry Pi](documentos/Instrucciones_configurar_Raspberry_Taller_Node-Red.pdf) ####
+
 ### Inscripción ###
 Inscríbete en el siguiente [**enlace**](https://goo.gl/forms/RdhQToNnuL09rjFz2). El taller es gratuito y será asignado por riguroso orden de inscripción hasta un total de **24 asistentes**.
