@@ -19,7 +19,7 @@ El material disponible en la actualidad en el Club es el siguiente:
 
 El material será cedido según las siguientes instrucciones:
 - Los ESCORNABOT se ceden en lotes de 6 unidades.
-- Las placas ARDUINO en lotes de 10 unidades.
+- Los ARDUINO en lotes de 10 unidades.
 - La Shield EDUBÁSICA en lotes de 10 unidades.
 - El periodo de préstamo será de UNA SEMANA.
 - Se adjudicarán por riguroso orden de petición.
