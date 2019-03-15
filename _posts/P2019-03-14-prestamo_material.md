@@ -26,4 +26,5 @@ El material será cedido según las siguientes instrucciones:
 - La solicitud se realiza cumplimentando el siguiente [formulario.](https://goo.gl/forms/xdPdXnzZsuenQGiu1)
 - La entrega y recogida de material se acordará por correo electrónico con los interesados/as.
 - Si no hubiera peticiones en espera, se podrá solicitar una ampliación del plazo por una semana más.
-- En el caso de los Escornabot, se ceden sin pilas, debiendo los interesados/as suministrarlas.
+- Los Escornabot, se ceden sin pilas, debiendo los interesados/as suministrarlas.
+- En caso de una gran demanda de material, tendrán priodidad quienes hayan realizado talleres de formación en el Club.
