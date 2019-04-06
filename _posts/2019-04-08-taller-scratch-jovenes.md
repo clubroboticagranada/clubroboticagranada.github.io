@@ -28,10 +28,10 @@ El taller será impartido por ***Antonio Mesa Casares,*** miembro del Club de Ro
 
 * Lugar: [OAL Albolote](https://goo.gl/maps/apqiUdvcC9s)
 * Día / Hora: **Jueves 25 de Abril de 2019** de 18:00 a 19:30.
-* Usaremos la versión 1.4 de Scratch.
+* Usaremos la versión 2.0 de Scratch.
 
 
-El programa lo puedes  descargar de aquí: [https://scratch.mit.edu/scratch_1.4/](https://scratch.mit.edu/scratch_1.4/)
+El programa lo puedes  descargar de aquí: [https://scratch.mit.edu/download/scratch2](https://scratch.mit.edu/download/scratch2)
 
 #### Inscripción ####
 Inscríbete en el siguiente [**enlace**](https://forms.gle/w7dkVjVBh7R5aYBy7).
