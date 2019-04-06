@@ -34,6 +34,7 @@ El taller será impartido por ***Antonio Mesa Casares,*** miembro del Club de Ro
 El programa lo puedes  descargar de aquí: https://scratch.mit.edu/scratch_1.4/
 
 #### Inscripción ####
-Inscríbete en el siguiente [**enlace**](https://goo.gl/forms/jXwGAsZJHW9xH7lE3).
+Inscríbete en el siguiente [**enlace**](https://forms.gle/w7dkVjVBh7R5aYBy7).
 
 El taller es gratuito y será asignado por riguroso orden de inscripción hasta un total de **24 asistentes**.
+
