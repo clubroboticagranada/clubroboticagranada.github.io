@@ -27,7 +27,7 @@ El taller será impartido por ***Antonio Mesa Casares,*** miembro del Club de Ro
 
 
 * Lugar: [OAL Albolote](https://goo.gl/maps/apqiUdvcC9s)
-* Día / Hora: **Jueves 24 de Abril de 2019** de 18:00 a 19:30.
+* Día / Hora: **Jueves 25 de Abril de 2019** de 18:00 a 19:30.
 * Usaremos la versión 1.4 de Scratch.
 
 
