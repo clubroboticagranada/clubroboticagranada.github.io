@@ -11,7 +11,7 @@ title: Taller de Scratch para chic@s
 
 Scratch es un lenguaje de programación, desarrollado en el MIT, de código abierto que permite aprender la lógica de programación  a través de símbolos e imágenes.
 
-Este taller está dirigido para chic@s de 8 a 12 años, y será una introducción a la programación con esta herramienta.
+Este taller está dirigido para **chic@s de 8 a 12 años**, y será una introducción a la programación con esta herramienta.
 
 
 Scratch es más que una herramienta de programación sin código, es también una comunidad de personas que comparten sus creaciones y aprenden las unas de las otras.
