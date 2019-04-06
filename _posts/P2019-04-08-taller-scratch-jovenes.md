@@ -16,7 +16,7 @@ Este taller está dirigido para chic@s de 8 a 12 años, y será una introducció
 Scratch es más que una herramienta de programación sin código, es también una comunidad de personas que comparten sus creaciones y aprenden las unas de las otras.
 
 
-El taller será impartido por ***Antonio mesa Casares,*** miembro del Club de Robótica..
+El taller será impartido por ***Antonio Mesa Casares,*** miembro del Club de Robótica..
 
 
 
