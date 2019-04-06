@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Taller de Scratch para Chic@s
+title: Taller de Scratch para chic@s
 ---
 
 <p align="center" >
-<img src="/images/alh.jpg" width="350" height="280"/>
+<img src="/images/scratch.png" width="350" height="280"/>
+
 
 </p>
 
@@ -18,8 +19,11 @@ Scratch es más que una herramienta de programación sin código, es también un
 
 El taller será impartido por ***Antonio Mesa Casares,*** miembro del Club de Robótica..
 
+<p align="center" >
+<img src="/images/scratch2.jpg" width="350" height="280"/>
 
 
+</p>
 
 
 * Lugar: [OAL Albolote](https://goo.gl/maps/apqiUdvcC9s)
