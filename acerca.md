@@ -36,14 +36,19 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 
-|Organización/Entidad | Logo|
-|-----------------------|-----|
- |[Ayuntamiento de Albolote](https://albolote.org/)|![](/images/logos/logo_ayto_albolote_100.png)|
- |[Beep](https://www.beep.es/tienda-de-informatica/32471/granada)|![](/images/logos/logo_beep_100.jpeg)|
- |[Createc 3D](https://createc3d.com/)|![](/images/logos/logo_createc_100.png)|
- |[Editorial Donostiarra](https://www.editorialdonostiarra.com/)|![](/images/logos/logo_donostiarra_100.jpeg)|
- 
- 
+| Logo|
+|-----------------------|
+|<img src="/images/logos/logo_ayto_albolote.png" width="300">|
+ |[Ayuntamiento de Albolote](https://albolote.org/)|
+ |<img src="/images/logos/logo_beep.jpg" width="300">|
+ |[Beep](https://www.beep.es/tienda-de-informatica/32471/granada)|
+| <img src="/images/logos/logocreatec3d.png" width="300">|
+|[Createc 3D](https://createc3d.com/)|
+ |<img src="/images/logos/logo_donostierra.jpg" width="300">|
+|[Editorial Donostiarra](https://www.editorialdonostiarra.com/)|
+
+
+
 
 ## Localización
 [Mapa](https://goo.gl/maps/apqiUdvcC9s)
