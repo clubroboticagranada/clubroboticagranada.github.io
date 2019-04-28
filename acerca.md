@@ -32,7 +32,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 
-### Organizaciones y Entidades que colaboran
+## Organizaciones y Entidades que colaboran
 
 
 
