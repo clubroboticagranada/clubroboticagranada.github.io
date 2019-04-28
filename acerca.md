@@ -4,13 +4,15 @@ title: Acerca de
 permalink: /acerca/
 ---
 
-### ¿Quienes somos?
+## ¿Quienes somos?
 Somos una Organización de ayuda a la difusión y democratización de la tecnología, la programación y la robótica en la sociedad, constituida por personas entusiastas de la Tecnología y la Ciencia.
 
 
 
 
-### Organizaciones que promueven
+## Organizaciones que promueven
+
+
 
 
 
@@ -32,15 +34,21 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 ### Organizaciones y Entidades que colaboran
 
+
+
 |Organización/Entidad | Logo|
 |-----------------------|-----|
  |[Ayuntamiento de Albolote](https://albolote.org/)|![](/images/logos/logo_ayto_albolote_100.png)|
  |[Beep](https://www.beep.es/tienda-de-informatica/32471/granada)|![](/images/logos/logo_beep_100.jpeg)|
  |[Createc 3D](https://createc3d.com/)|![](/images/logos/logo_createc_100.png)|
  |[Editorial Donostiarra](https://www.editorialdonostiarra.com/)|![](/images/logos/logo_donostiarra_100.jpeg)|
+ 
+ 
 
-### Localización
+## Localización
 [Mapa](https://goo.gl/maps/apqiUdvcC9s)
 
-### Contáctanos
+
+
+## Contáctanos
 [clubroboticagranada@gmail.com](mailto:clubroboticagranada@gmail.com)
