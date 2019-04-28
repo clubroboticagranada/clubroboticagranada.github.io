@@ -36,13 +36,13 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 
-| Logo|
+| |
 |-----------------------|
-|<img src="/images/logos/logo_ayto_albolote.png" width="300">|
- |[    Ayuntamiento de Albolote](https://albolote.org/)|
+|[<img src="/images/logos/logo_ayto_albolote.png" width="300">](https://albolote.org/)|
+ |Ayuntamiento de Albolote|
  | |
- |<img src="/images/logos/logo_beep.jpg" width="300">|
- |[            Beep](https://www.beep.es/tienda-de-informatica/32471/granada)|
+ |[<img src="/images/logos/logo_beep.jpg" width="300">](https://www.beep.es/tienda-de-informatica/32471/granada)|
+ |Beep|
  | |
 | <img src="/images/logos/logocreatec3d.png" width="300">|
 |[          Createc 3D](https://createc3d.com/)|
