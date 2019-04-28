@@ -17,13 +17,13 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 [<img src="/images/logos/logo_apta.png" width="600">](https://aptandalucia.wordpress.com/)
-
+* * *
  [<img src="/images/logos/logo_Red_Andaluza_OK-1024x355.png" width="600">](http://roboticaytecnologia.org/)
-
+* * *
  [<img src="/images/logos/logo_osl.jpg" width="600">](http://osl.ugr.es/)
-
+* * *
 [<img src="/images/logos/ParqueCiencias.jpg" width="600">](http://www.parqueciencias.es)
-
+* * *
 
 
 
