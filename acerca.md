@@ -12,7 +12,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 ### Organizaciones que promueven
 
-<p align ="center">
+
 
 [<img src="/images/logos/logo_apta.png" width="600">](https://aptandalucia.wordpress.com/)
 
@@ -23,7 +23,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 [<img src="/images/logos/ParqueCiencias.jpg" width="600">](http://www.parqueciencias.es)
 
 
-</p>
+
 
 
 
