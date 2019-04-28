@@ -43,19 +43,16 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
  ### Ayuntamiento de Albolote ###
 
  
- 
  [<img src="/images/logos/logo_beep.jpg" width="300">](https://www.beep.es/tienda-de-informatica/32471/granada)
  
  
  ### Beep ###
- 
- 
- 
+
+
 [<img src="/images/logos/logocreatec3d.png" width="300">](https://createc3d.com/)
 
 
 ### Createc 3D ###
-
 
 
 [<img src="/images/logos/logo_donostierra.jpg" width="300">](https://www.editorialdonostiarra.com/)
