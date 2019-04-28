@@ -37,7 +37,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 
-[<img src="/images/logos/logo_ayto_albolote.png" width="300">](https://albolote.org/)
+[<img src="/images/logos/logo_ayto_albolote.png" width="250">](https://albolote.org/)
 
 
 ### Ayuntamiento de Albolote 
