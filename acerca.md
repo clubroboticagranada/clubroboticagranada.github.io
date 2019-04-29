@@ -16,7 +16,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 
-[<img src="/images/logos/logo_apta.jpg" width="600">](https://aptandalucia.wordpress.com/)
+[<img src="/images/logos/logo_apta.jpg" width="660">](https://aptandalucia.wordpress.com/)
 * * *
  [<img src="/images/logos/logo_Red_Andaluza_OK-1024x355.png" width="600">](http://roboticaytecnologia.org/)
 * * *
