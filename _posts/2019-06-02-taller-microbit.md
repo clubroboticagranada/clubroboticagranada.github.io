@@ -21,7 +21,7 @@ El taller está dirigido a **todas las edades**, y será una introducción a la 
 
 
 
-El taller será impartido por ***Lorenzo Olmo,*** profesor de Tecnología y miembro del Club de Robótica.
+Será impartido por ***Lorenzo Olmo,*** profesor de Tecnología y miembro del Club de Robótica.
 
 <p align="center" >
 <img src="/images/microbit-hardware-access.jpg" width="550" height="280"/>
