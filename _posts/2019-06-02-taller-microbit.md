@@ -37,6 +37,6 @@ El taller será impartido por ***Lorenzo Olmo,*** profesor de Tecnología y miem
 
 
 #### Inscripción ####
-Inscríbete en el siguiente [**enlace**](https://forms.gle/w7dkVjVBh7R5aYBy7).
+Inscríbete en el siguiente [**enlace**](https://forms.gle/p41JotccSKTtUWHZA).
 
 El taller es gratuito y será asignado por riguroso orden de inscripción hasta un total de **24 asistentes**.
