@@ -30,7 +30,7 @@ Será impartido por ***Lorenzo Olmo,*** profesor de Tecnología y miembro del Cl
 </p>
 
 
-* Lugar: [OAL Albolote](https://goo.gl/maps/apqiUdvcC9s)
+* Lugar: [IES Pedro Soto de Rojas](https://goo.gl/maps/Uf4HxvqWf2yULEiZA)
 * Día / Hora: **Jueves 13 de junio de 2019** de 18:00 a 19:30.
 
 
