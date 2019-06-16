@@ -28,7 +28,7 @@ GitHub te brinda herramientas muy útiles para el trabajo en equipo, dentro de u
 
 Será impartido por [***Manuel Cogolludo Vallejo (@makova),***](https://github.com/Makova)  miembro del Club de Robótica.
 
-**Este taller tiene un coste de 20 € que va íntegramente destinado a una buena labor social. Vamos a ayudar entre todos a nuestro compañero Manu que está pasando un mal momento.**
+**Este taller tiene un coste de 20 € que va íntegramente destinado a una buena labor social. Vamos a ayudar entre todos a nuestro compañero Manu que está pasando un mal momento. El taller se pagará in situ** 
 
 
 * Lugar de celebración: [IES Veleta](https://www.google.com/maps/place/IES+Veleta/@37.150145,-3.603917,15z/data=!4m5!3m4!1s0x0:0x6168789e326357b0!8m2!3d37.150145!4d-3.603917)
