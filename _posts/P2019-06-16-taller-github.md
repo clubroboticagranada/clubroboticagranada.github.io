@@ -38,4 +38,4 @@ Será impartido por [***Manuel Cogolludo Vallejo (@makova),***](https://github.c
 
 
 #### Inscripción ####
-Inscríbete en el siguiente [**enlace**](https://docs.google.com/forms/d/e/1FAIpQLSdilMUK9OgKySwUSvbtLTCeaXOziqDmyTqfh8yEwHt7HEE3vw/viewform?usp=sf_link).
+Inscríbete en el siguiente [**enlace**](https://forms.gle/8uD1PkgjAAHdGKpo8).
