@@ -1,3 +1,4 @@
+* Taller de Micro:bit. 13 de junio de 2019. 20 participantes.
 * Taller de Scratch para chic@s. 25 de abril de 2019. 20 participantes.
 * Introducción a las FPGA's libres. Alhambra II. 4 de abril de 2019. 22 participantes.
 * Taller de Node-Red y el internet de las cosas. 21 y 28 de marzo de 2019. 26 participantes.
