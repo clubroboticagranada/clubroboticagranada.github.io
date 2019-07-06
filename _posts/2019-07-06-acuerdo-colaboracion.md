@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ACUERDO DE COLABORACIÓN CON EL PARQUE DE LAS CIENCIAS DE GRANADA
+title: Acuerdo de colaboración con el Parque de las Ciencias de Granada
 ---
 
 
