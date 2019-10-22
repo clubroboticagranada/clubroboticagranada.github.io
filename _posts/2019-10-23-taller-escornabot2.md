@@ -31,7 +31,7 @@ Será impartido por ***Ángela Pozo Y Pedro Ruiz,***  miembros del Club de Robó
 
 
 
-</p>
+
 
 
 * Lugar: [Parque de las Ciencias, sala OPEN LAB](https://goo.gl/maps/aQC1afhE8HR9uaVx8)
