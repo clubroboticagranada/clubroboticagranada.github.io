@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller de montaje y programación de ESCORNABOT
+title: Taller de montaje y programación de ESCORNABOT DIY
 ---
 
 <p align="center" >
