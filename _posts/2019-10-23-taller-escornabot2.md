@@ -32,7 +32,7 @@ Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar l
 * Contenidos: Programación de Escornabot DIY
 * Material a traer: Ordenador con [IDE de Arduino](https://www.arduino.cc/en/Main/Software) instalado.
 
-### [Documentación del taller](https://github.com/pedroruizf/taller_escornabot) ###
+
 
 
 Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
@@ -56,3 +56,6 @@ Será impartido por ***Ángela Pozo Y Pedro Ruiz,***  miembros del Club de Robó
 
 #### Inscripción ####
 Inscríbete en el siguiente [**enlace**](https://forms.gle/1vbxMWRZY5rRwrSV9).
+
+
+### [Documentación del taller](https://github.com/pedroruizf/taller_escornabot) ###
