@@ -1,61 +1,49 @@
 ---
 layout: post
-title: Taller de montaje y programación de ESCORNABOT DIY
+title: Taller de Edubásica con Arduinoblocks
 ---
 
 <p align="center" >
-<img src="/images/escornabot_diy.jpg" width="350" height="280"/>
-
+<img src="/images/edubasica01.jpg" width="350" height="280"/>
 
 
 </p>
 
-El Club Robótica Granada inaugura la nueva temporada en el Parque de las Ciencias con un taller de montaje y programación de [Escornabot](https://escornabot.com/web/es/what). Está dirigido a personas adultas interesadas por la robótica.
+
+
+[EDUBÁSICA](http://www.practicasconarduino.com/) es una tarjeta de prototipado rápido para conectar a Arduino. Incluye componentes electrónicos básicos para cientos de prácticas y proyectos.
+
+La programación se va a realizar con [Arduinoblocks](http://www.arduinoblocks.com/)
+
+
+<p align="center" >
+<img src="/images/arduinoblocks2.jpg" width="350" height="280"/>
+
+
+</p>
 
 
 
-Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas.
+El taller está dirigido al público en general, interesado en la programación y la robótica.
 
-### Se impartirá en DOS SESIONES: 5 y 12 de noviembre de 2019 y es  totalmente GRATUITO.
-
-
-### Temporalización ###
-#### 1ª Sesión ####
-* Lugar: Parque de las Ciencias
-* Día / Hora: **05/11/2019** de 17:00 a 19:00.
-* Contenidos: Montaje de Escornabot DIY
-* Material a traer: **llave allen de tamaño 3** o juego de llaves allen.
-
-#### 2ª Sesión ####
-* Lugar: Parque de las Ciencias
-* Día / Hora: **12/11/2019** de 17:00 a 19:00.
-* Contenidos: Programación de Escornabot DIY
-* Material a traer: Ordenador con [IDE de Arduino](https://www.arduino.cc/en/Main/Software) instalado.
+Se va a celebrar el día 21 de noviembre de 2019 en el OPEN LAB del Parque de las Ciencias.
 
 
+
+
+
+
+Será impartido por ***Manuel Hidalgo,*** desarrollador de la placa y ***Federico Coca***,  miembros del Club de Robótica.
 
 
 Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
 
 
-
-
-
-Será impartido por ***Ángela Pozo Y Pedro Ruiz,***  miembros del Club de Robótica.
-
-
-
-
-
-
 * Lugar: [Parque de las Ciencias, sala OPEN LAB](https://goo.gl/maps/aQC1afhE8HR9uaVx8)
-* Días / Hora: **martes 5 y 12 de noviembre de 18:00 a 19:30.**
+* Día / Hora: **Jueves 21 de noviembre de 2019 de 17:00 a 19:00.**
 
-
+* Material: **Ordenador portátil**
 
 
 #### Inscripción ####
-Inscríbete en el siguiente [**enlace**](https://forms.gle/1vbxMWRZY5rRwrSV9).
-
-
-### [Documentación del taller](https://github.com/pedroruizf/taller_escornabot) ###
+Inscríbete en el siguiente [**enlace**](https://forms.gle/pFDJTYJCVnxEAgaw9).
