@@ -19,6 +19,20 @@ Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar l
 ### Se impartirá en DOS SESIONES: 5 y 12 de noviembre de 2019 y es  totalmente GRATUITO.
 
 
+### Temporalización ###
+#### 1ª Sesión ####
+* Lugar: Parque de las Ciencias
+* Día / Hora: **05/11/2019** de 17:00 a 19:00.
+* Contenidos: Montaje de Escornabot DIY
+* Material a traer: **llave allen de tamaño 3** o juego de llaves allen.
+
+#### 2ª Sesión ####
+* Lugar: Parque de las Ciencias
+* Día / Hora: **12/11/2019** de 17:00 a 19:00.
+* Contenidos: Programación de Escornabot DIY
+* Material a traer: Ordenador con [IDE de Arduino](https://www.arduino.cc/en/Main/Software) instalado.
+
+### [Documentación del taller](https://github.com/pedroruizf/taller_escornabot) ###
 
 
 Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
