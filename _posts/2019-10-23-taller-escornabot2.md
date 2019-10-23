@@ -4,7 +4,7 @@ title: Taller de montaje y programación de ESCORNABOT
 ---
 
 <p align="center" >
-<img src="/images/escornabot.jpg" width="350" height="280"/>
+<img src="/images/escornabot_diy.jpg" width="350" height="280"/>
 
 
 
