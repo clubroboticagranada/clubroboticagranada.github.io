@@ -49,7 +49,7 @@ Será impartido por ***Ángela Pozo Y Pedro Ruiz,***  miembros del Club de Robó
 
 
 * Lugar: [Parque de las Ciencias, sala OPEN LAB](https://goo.gl/maps/aQC1afhE8HR9uaVx8)
-* Días / Hora: **martes 5 y 12 de noviembre de 18:00 a 19:30.**
+* Días / Hora: **martes 5 y 12 de noviembre de 17:00 a 19:00.**
 
 
 
