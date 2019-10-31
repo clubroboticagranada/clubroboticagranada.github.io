@@ -22,7 +22,7 @@ La programación se va a realizar con [Arduinoblocks](http://www.arduinoblocks.c
 
 </p>
 
-
+Para poder conectar ArduinoBlocks con tu placa Arduino necesitas instalar ArduinoBlocks-Connector v4 en tu ordenador. Puedes descargarlo desde el siguiente enlace: http://www.arduinoblocks.com/web/site/abconnector
 
 El taller está dirigido al público en general, interesado en la programación y la robótica.
 
