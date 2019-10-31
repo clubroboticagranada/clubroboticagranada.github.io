@@ -11,7 +11,7 @@ title: Taller de Edubásica con Arduinoblocks
 
 
 
-[EDUBÁSICA](http://www.practicasconarduino.com/) es una tarjeta de prototipado rápido para conectar a Arduino. Incluye componentes electrónicos básicos para cientos de prácticas y proyectos.
+[EDUBÁSICA](http://www.practicasconarduino.com/) es una tarjeta de prototipado rápido para conectar a Arduino. Incluye componentes electrónicos básicos para cientos de prácticas y proyectos científicos-tecnológicos.
 
 La programación se va a realizar con [Arduinoblocks](http://www.arduinoblocks.com/)
 
