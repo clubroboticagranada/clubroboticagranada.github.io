@@ -49,7 +49,9 @@ Número de participantes : 20,  seleccionados por riguroso orden de inscripción
 Inscríbete en el siguiente [**enlace**](https://forms.gle/pFDJTYJCVnxEAgaw9).
 
 Puedes ver las presentaciones del taller en los siguiente enlaces:
+
 [***Presentación de Federico Coca***](https://github.com/fgcoca/Chats/tree/master/21-11-19-Arduinoblocks)
+
 [***Presentación de Manuel Hidalgo***](https://github.com/leobotmanuel/EduBasica_ArduinoBlocks/wiki)
 
 
