@@ -17,7 +17,7 @@ El objetivo es descubrir el mundo de la robótica y la programación.
 
 ### Jueves 12 de diciembre de 17:00 a 19:00 horas.
 
-###### El taller es GRATUITO.
+###### El taller es GRATUITO.#####
 
  #### Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
 
