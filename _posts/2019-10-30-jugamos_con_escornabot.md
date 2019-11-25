@@ -20,7 +20,7 @@ El objetivo es descubrir el mundo de la robótica y la programación.
 ###### El taller es GRATUITO.
 
 
- #### Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
+#### Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
 
 #### Lugar: OAL de Albolote.
 
