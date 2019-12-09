@@ -1,4 +1,4 @@
-## Únete al Club de Robótica Granada ##
+## Únete al Club de Robótica Granada 
 
 Como seguro ya conocéis, el Club Robótica Granada ya está constituido oficialmente como asociación sin ánimo de lucro y los estatutos ya han sido aprobados.
 
