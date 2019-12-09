@@ -4,7 +4,8 @@
 Como seguro ya conocéis, el Club Robótica Granada ya está constituido oficialmente como asociación sin ánimo de lucro y los estatutos ya han sido aprobados.
 
 Desde los comienzos, en 2016, han sido muchos los obstáculos superados para poder llegar donde estamos hoy.
-El club a ha firmado un acuerdo de colaboración con el Parque de las Ciencias de Granada, que incluye formación, divulgación, colaboración y publicación de actividades. El pasado 29 de noviembre se inauguró el OpenLAB, un nuevo espacio en el museo muy bien equipado y que han puesto a nuestra disposición, gestionándolo el club a partir de ahora.
+
+El club ha firmado un acuerdo de colaboración con el Parque de las Ciencias de Granada, que incluye formación, divulgación, colaboración y publicación de actividades. El pasado 29 de noviembre se inauguró el OpenLAB, un nuevo espacio en el museo muy bien equipado y que han puesto a nuestra disposición, gestionándolo el club a partir de ahora.
 
 El acuerdo de colaboración no incluye financiación directa para el club, por lo que hay que buscar una manera de hacerlo.
 Se ha establecido que, a partir de enero de 2020, los socios abonen una cantidad anual de 20 € y de 10 € para estudiantes, pudiendo estos últimos ser becados a cambio de realizar actividades.
