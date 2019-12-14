@@ -27,3 +27,4 @@ Se incluye un formulario para rellenar nuestros datos.
 
 #### [Enlace al formulario de adhesión al Club](https://forms.gle/gf2M5tTQLbmZZ13A8)
 
+##### Cuenta del Club: CAJA RURAL DE GRANADA IBAN: ES09 3023 0110 4566 5182 6205
