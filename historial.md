@@ -1,3 +1,4 @@
+* Taller "Jugando con Escornabot". 12 de diciembre de 2019. 20 participantes.
 * Taller de Edubásica con Arduinoblocks. 21 de noviembre de 2019. 20 participantes.
 * Taller de montaje y programación de Escornabot DIY. 5 y 12 de noviembre de 2019. 25 participantes.
 * Taller de Micro:bit. 13 de junio de 2019. 20 participantes.
