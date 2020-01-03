@@ -5,7 +5,7 @@ title: Manejo de instrumentos electrónicos OpenLAB
 
 ![](/images/osciloscopio.jpg)
 
-![](/images/POLIMETRO.jpg)
+![](/images/polimetro.jpg)
 
 
 ### Jueves 23 de enero de 2020, de 17:15 a 19:15 horas.
@@ -22,7 +22,7 @@ title: Manejo de instrumentos electrónicos OpenLAB
 #### Lugar: OPENLAB, Parque de las Ciencias.
 
 
-![](/images/GENERADOR.jpg)
+![](/images/generador.jpg)
 
 
 ### Inscríbete en el siguiente [ENLACE](https://forms.gle/33ZfnKjiHp9nULor8)
