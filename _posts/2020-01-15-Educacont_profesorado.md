@@ -18,7 +18,7 @@ En este taller se explicará el funcionamiento del dispositivo y las aplicacione
 ### Miércoles 15 de enero de 2020, de 17:15 a 19:15 horas.
 
 
-
+#### Imparte: ***Federico Coca***
 
 #### Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
 
