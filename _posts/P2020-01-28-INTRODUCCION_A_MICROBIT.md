@@ -23,6 +23,7 @@ title: Introducción a Micro:bit
 
 
 
+![](http://clubroboticagranada.github.io/images/microbit-front.png)
 
 
-### Inscríbete en el siguiente [ENLACE]()
+### Inscríbete en el siguiente [ENLACE](https://forms.gle/JBCyamfHVLK119ZAA)
