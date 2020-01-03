@@ -22,7 +22,7 @@ title: Manejo de instrumentos electrónicos OpenLAB
 #### Lugar: OPENLAB, Parque de las Ciencias.
 
 
-![](/images/generador.jpg)
+![](/images/Generador.jpg)
 
 
 ### Inscríbete en el siguiente [ENLACE](https://forms.gle/33ZfnKjiHp9nULor8)
