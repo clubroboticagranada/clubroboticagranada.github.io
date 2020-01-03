@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Jugando con ESCORNABOT
----
+title: Taller de manejo de instrumentos electrónicos. OpenLab
 
 ![](http://clubroboticagranada.github.io/images/escornabot_diy.jpg )
 
 
-### Martes 21 de enero de 17:15 a 19:15 horas.
+### Jueves 23 de enero de 17:15 a 19:15 horas.
 
 
 
