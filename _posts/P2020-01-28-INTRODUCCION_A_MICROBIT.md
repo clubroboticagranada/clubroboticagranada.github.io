@@ -15,6 +15,7 @@ Tanto el hardware como el software de “micro:bit” es de código abierto.
 
 El taller está dirigido a **todas las edades**, y será una introducción a la programación con esta tarjeta.
 
+![](http://clubroboticagranada.github.io/images/microbit-front.png)
 
 #### Taller impartido por María Belén Serrano Fontana.
 
@@ -33,7 +34,7 @@ El taller está dirigido a **todas las edades**, y será una introducción a la 
 
 
 
-![](http://clubroboticagranada.github.io/images/microbit-front.png)
+
 
 
 ### Inscríbete en el siguiente [ENLACE](https://forms.gle/JBCyamfHVLK119ZAA)
