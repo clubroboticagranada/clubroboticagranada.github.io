@@ -3,10 +3,19 @@ layout: post
 title: Funcionamiento de la báscula del sistema solar
 ---
 
-![](http://clubroboticagranada.github.io/images/escornabot_diy.jpg )
+En este taller se expondrá el proyecto de la báscula del sistema solar, realizado para el Parque de las Ciencias, utilizando una báscula comercial, un Arduino Nano y Raspberry pi.
+
+![](/images/bascula.jpg )
 
 
 
+
+Se analizarán los aspectos tanto del hardware utilizado, (células de pesaje, amplificador , Arduino nano y Raspberry pi con pantalla táctil) como de los programas que se han empleado (Arduino IDE y Node-RED), así como otras aplicaciones del proyecto.
+
+Este taller está dirigido tanto a aficionados y makers, como a educadores que deseen montar una práctica basada en la báscula.
+
+
+#### Taller impartido por José María Fernández Domenech.
 
 ### Jueves 16 de enero de 17:15 a 19:15 horas.
 
@@ -25,4 +34,4 @@ title: Funcionamiento de la báscula del sistema solar
 
 
 
-### Inscríbete en el siguiente [ENLACE]()
+### Inscríbete en el siguiente [ENLACE](https://forms.gle/b56Df3zzWyECDtHg6)
