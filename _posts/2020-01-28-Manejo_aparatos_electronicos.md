@@ -3,7 +3,7 @@ layout: post
 title: Manejo de instrumentos electrónicos OpenLAB
 ---
 
-![](/images/os1.jpg)
+![](/images/OS1.jpg)
 
 El objeto de este taller es dar una breve introducción sobre el uso y manejo de los instrumentos disponibles en el OpenLab, tal como fuentes de alimentación reguladas, generadores de función, multímetros digitales y osciloscopio digital.
 
