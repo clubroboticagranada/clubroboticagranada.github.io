@@ -19,7 +19,7 @@ El taller está dirigido a **todas las edades**, y será una introducción a la 
 
 #### Taller impartido por María Belén Serrano Fontana.
 
-### Martes 28 de enero de 2020, de 17:00 a 19:00 horas.
+### Martes 28 de enero de 2020, de 17:15 a 19:15 horas.
 
 
 
