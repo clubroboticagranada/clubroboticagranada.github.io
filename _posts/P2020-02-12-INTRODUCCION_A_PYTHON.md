@@ -10,7 +10,7 @@ Python es un lenguaje de programación poderoso y fácil de aprender. Cuenta con
 
 El taller está dirigido a **todas las edades**, y será una introducción a la programación en este lenguaje.
 
-![]()
+
 
 #### Taller impartido por Maribel Ruiz Martínez, estudiante del doble grado de Ingeniería Informática y Matemáticas en la UGR.
 
