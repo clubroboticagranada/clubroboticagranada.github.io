@@ -14,7 +14,7 @@ El taller está dirigido a **todas las edades**, y será una introducción a la 
 
 #### Taller impartido por Maribel Ruiz Martínez, estudiante del doble grado de Ingeniería Informática y Matemáticas en la UGR.
 
-### Miércoles 12 de febrero de 2020, de 17:15 a 19:15 horas.
+### Miércoles 26 de febrero de 2020, de 17:15 a 19:15 horas.
 
 
 
