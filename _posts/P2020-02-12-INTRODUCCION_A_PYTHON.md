@@ -24,6 +24,7 @@ El taller está dirigido a **todas las edades**, y será una introducción a la 
 
 #### Los socios/as del Club tienen prioridad en la inscripción.
 
+#### Deberás traer tu ordenador portátil.
 
 #### Lugar: OPENLAB, Parque de las Ciencias.
 
