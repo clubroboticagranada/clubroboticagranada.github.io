@@ -1,3 +1,7 @@
+* Taller "Introducción a Micro:bit". 28 de enero de 2020. 16 participantes.
+* Taller "Manejo de instrumentos electrónicos OpenLab". 23 de enero de 2020. 14 participantes.
+* Taller "Funcionamiento de la báscula solar". 16 de enero de 2020. 15 participantes.
+* Taller "Educacont para profesorado". 15 de enero de 2020. 20 participantes.
 * Taller "Jugando con Escornabot". 12 de diciembre de 2019. 20 participantes.
 * Taller de Edubásica con Arduinoblocks. 21 de noviembre de 2019. 20 participantes.
 * Taller de montaje y programación de Escornabot DIY. 5 y 12 de noviembre de 2019. 25 participantes.
