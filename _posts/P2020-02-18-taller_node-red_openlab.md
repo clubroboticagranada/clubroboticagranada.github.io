@@ -34,3 +34,7 @@ El taller se desarrollará en dos sesiones.
 Inscríbete en el siguiente [**enlace**](https://forms.gle/8bn42n68q4tH9YhdA).
 
 El taller es gratuito y será asignado por riguroso orden de inscripción hasta un total de **20 asistentes**.
+
+Los socios/as del Club tienen prioridad en la inscripción.
+
+
