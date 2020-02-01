@@ -11,20 +11,15 @@ Python es un lenguaje de programación poderoso y fácil de aprender. Cuenta con
 El taller está dirigido a **todas las edades**, y será una introducción a la programación en este lenguaje.
 
 
-
 #### Taller impartido por Maribel Ruiz Martínez, estudiante del doble grado de Ingeniería Informática y Matemáticas en la UGR.
 
 ### Miércoles 26 de febrero de 2020, de 17:15 a 19:15 horas.
 
-
-
-
 #### Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
-
 
 #### Los socios/as del Club tienen prioridad en la inscripción.
 
-#### Deberás traer tu ordenador portátil.
+#### Deberás traer tu ordenador portátil y tener instalado el editor de python [Thonny](https://thonny.org/), y descargarte los [ejemplos](https://github.com/mruiz54/Ejercicios-Curso-de-Iniciaci-n-a-la-Programaci-n-en-Python/tree/master/Ejemplos) que veremos en el taller. [Presentación del taller](https://github.com/mruiz54/Ejercicios-Curso-de-Iniciaci-n-a-la-Programaci-n-en-Python/tree/master/Presentaci%C3%B3n).
 
 #### Lugar: OPENLAB, Parque de las Ciencias.
 
