@@ -8,7 +8,7 @@ title: ESCORNAFAN Workshop
 
 Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas.
 
-[Escornabot](https://escornabot.com/web/es/what)
+[Enlace a la web de Escornabot](https://escornabot.com/web/es/what)
 
 El próximo jueves 13 de febrero tendremos el honor de contar con Pablo Rubio y su genialidad para realizarlo.
 
@@ -24,12 +24,9 @@ Dos frases que lo definen:
 - “Recordad, hago esto por placer y si alguien se pone intensito me cuesta poco mandarlo a….. “
 
 
-### Será en el OpenLAB de 17.15 a 19.30 y no te lo puedes perder.
+### Será el jueves 13 de febrero en el OpenLAB de 17,15 a 19,30 horas, y no te lo puedes perder.
 
 ### Dirigido a profesorado de cualquier edad.
-
-
-
 
 
 
