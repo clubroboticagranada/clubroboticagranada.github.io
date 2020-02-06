@@ -24,7 +24,7 @@ Dos frases que lo definen:
 - “Recordad, hago esto por placer y si alguien se pone intensito me cuesta poco mandarlo a….. “
 
 
-### Será el jueves 13 de febrero en el OpenLAB de 17,15 a 19,30 horas, y no te lo puedes perder.
+### Será el jueves 13 de febrero en el OpenLAB del Parque de las Ciencias, de 17,15 a 19,30 horas, y no te lo puedes perder.
 
 ### Dirigido a profesorado de cualquier edad.
 
