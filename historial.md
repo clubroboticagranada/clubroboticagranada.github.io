@@ -1,3 +1,4 @@
+* Escornafan Workshop. 13 de febrero de 2020. 20 participantes.
 * Taller "Introducción a Micro:bit". 28 de enero de 2020. 16 participantes.
 * Taller "Manejo de instrumentos electrónicos OpenLab". 23 de enero de 2020. 14 participantes.
 * Taller "Funcionamiento de la báscula solar". 16 de enero de 2020. 15 participantes.
