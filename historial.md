@@ -1,3 +1,5 @@
+* Taller de introducción a Python. 26 de febrero de 2020. 24 participantes.
+* Taller de Node-red básico. 18 y 20 de febrero de 2020. 18 participantes.
 * Escornafan Workshop. 13 de febrero de 2020. 20 participantes.
 * Taller "Introducción a Micro:bit". 28 de enero de 2020. 16 participantes.
 * Taller "Manejo de instrumentos electrónicos OpenLab". 23 de enero de 2020. 14 participantes.
