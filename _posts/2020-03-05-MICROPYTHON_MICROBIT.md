@@ -8,13 +8,13 @@ Python es un lenguaje de programación que programadores principiantes y experto
 
 La versión de Python que usa el micro:bit de la BBC se llama MicroPython.
 
-Información extraida de: ![](https://microbit.org/es/guide/python/)
+Información extraida de: ![https://microbit.org/es/guide/python/](https://microbit.org/es/guide/python/)
 
 ![](/images/pythonHero.png)
 
 El taller está dirigido a **todas las edades**, y será una introducción a la programación en este lenguaje.
 
-Todo el material del taller lo tienes en Github: ![](https://github.com/pedroruizf/microbit/tree/master/python)
+Todo el material del taller lo tienes en Github: ![https://github.com/pedroruizf/microbit/tree/master/python](https://github.com/pedroruizf/microbit/tree/master/python)
 
 
 #### Taller impartido por Pedro Ruiz y Manuel Hidalgo, miembros del Club de robótica.
