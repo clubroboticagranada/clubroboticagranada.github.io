@@ -14,12 +14,14 @@ Información extraida de: [https://microbit.org/es/guide/python/](https://microb
 
 El taller está dirigido a **todas las edades**, y será una introducción a la programación en este lenguaje.
 
+#### Taller impartido por Pedro Ruiz y Manuel Hidalgo, miembros del Club de robótica.
+
+
 Todo el material del taller lo tienes en Github: [https://github.com/pedroruizf/microbit/tree/master/python](https://github.com/pedroruizf/microbit/tree/master/python)
 
 Presentación de Manuel Hidalgo: [https://github.com/leobotmanuel/microbitMicropython](https://github.com/leobotmanuel/microbitMicropython)
 
 
-#### Taller impartido por Pedro Ruiz y Manuel Hidalgo, miembros del Club de robótica.
 
 ### Jueves 5 de marzo de 2020, de 17:15 a 19:15 horas.
 
