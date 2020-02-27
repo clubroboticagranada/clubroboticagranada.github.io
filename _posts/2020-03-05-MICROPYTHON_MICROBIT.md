@@ -15,6 +15,7 @@ Información extraida de: [https://microbit.org/es/guide/python/](https://microb
 El taller está dirigido a **todas las edades**, y será una introducción a la programación en este lenguaje.
 
 Todo el material del taller lo tienes en Github: [https://github.com/pedroruizf/microbit/tree/master/python](https://github.com/pedroruizf/microbit/tree/master/python)
+
 Presentación de Manuel Hidalgo: [https://github.com/leobotmanuel/microbitMicropython](https://github.com/leobotmanuel/microbitMicropython)
 
 
