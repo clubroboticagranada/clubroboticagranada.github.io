@@ -4,7 +4,7 @@ title: Introducción a MicroPython con Micro:bit
 ---
 
 
-Python es un lenguaje de programación que programadores principiantes y expertos utilizan de igual manera. Python es completamente basado en texto, que puede parecer intimidante al principio, pero con un poco de orientación y práctica cualquiera puede empezar a programar.
+Python es un lenguaje de programación que programadores principiantes y expertos utilizan de igual manera. Python está completamente basado en texto, que puede parecer intimidante al principio, pero con un poco de orientación y práctica cualquiera puede empezar a programar.
 
 La versión de Python que usa el micro:bit de la BBC se llama MicroPython.
 
