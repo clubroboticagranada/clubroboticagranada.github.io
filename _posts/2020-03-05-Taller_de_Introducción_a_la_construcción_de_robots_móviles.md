@@ -11,7 +11,6 @@ El taller consistirá en dar una visión práctica de cómo resolver problemas m
 
 
 
-Taller está dirigido a **todas las edades**.
 
 
 Será impartido por [*Luis Miguel Fernández Espinosa*](http://espelectronicdesign.com/), quien actualmente trabaja para la empresa Viseo. Ingeniero colegiado por el COITT, posee un máster en Sistemas Electrónicos para Entornos Inteligentes por la Universidad de Málaga y otro máster en Seguridad Informática.
