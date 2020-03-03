@@ -12,7 +12,6 @@ Información extraida de: [https://microbit.org/es/guide/python/](https://microb
 
 ![](/images/pythonHero.png)
 
-El taller está dirigido a **todas las edades**, y será una introducción a la programación en este lenguaje.
 
 #### Taller impartido por Pedro Ruiz y Manuel Hidalgo, miembros del Club de robótica.
 
