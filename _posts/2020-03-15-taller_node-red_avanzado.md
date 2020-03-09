@@ -8,7 +8,7 @@ title: Taller de Node-Red Avanzado
 
 ## TALLER DE [NODE-RED AVANZADO](https://nodered.org/) ##
 
-El concepto de Internet de las cosas (IoT) se ha instalado en para quedarse en la sociedad tecnológica con la que convivimos diariamente. En nuestros Arduinos y mucha de la cacharrería que nos rodea, el concepto de IoT es una realidad y este Taller de Node-Red avanzado tratará de dar una visión práctica de IoT.
+El concepto de Internet de las cosas (IoT) se ha instalado para quedarse en la sociedad tecnológica con la que convivimos diariamente. En nuestros Arduinos y mucha de la cacharrería que nos rodea, el concepto de IoT es una realidad y este Taller de Node-Red avanzado tratará de dar una visión práctica de IoT.
 
 Aprenderemos a instalar en nuestra Raspberry Pi el programa Mosquitto, un broker MQTT de software libre. Realizaremos prácticas de como compartir datos en nuestra red local. También aprenderemos a enviar datos desde Node-Red, vía MQTT a un broker en la nube, que en nuestro caso será Ubidots.
 
