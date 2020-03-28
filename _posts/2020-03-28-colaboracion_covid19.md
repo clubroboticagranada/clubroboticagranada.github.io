@@ -10,7 +10,7 @@ title: Impresión 3D de protectores faciales para personal sanitario
 
 
 
-El Club Robótica Granada ha impulsado en Granada, junto con la Universidad de Granada, la Oficina de Software Libre y el OpenLab del Parque de las Ciencias, un proyecto de impresión de protectores faciales para repartirlos entre el personal sanitario de los hospitales de Granada y provincia, residencias de ancianos, empresas de ambulancias, funerarias y todo aquel colectivo que lo necesite.
+El Club Robótica Granada ha impulsado en Granada, junto con la Oficina de Software Libre de la Universidad de Granada y el OpenLab del Parque de las Ciencias, un proyecto de impresión de protectores faciales para repartirlos entre el personal sanitario de los hospitales de Granada y provincia, residencias de ancianos, empresas de ambulancias, funerarias y todo aquel colectivo que lo necesite.
 
 
 ### Si perteneces a algún colectivo que las necesite, puedes solicitarlas a través del siguiente formulario: ###
