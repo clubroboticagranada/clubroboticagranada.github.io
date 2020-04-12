@@ -38,10 +38,9 @@ title: Seguimos fabricando viseras antisalpicaduras y sujeta mascarillas
 
 ### [Enlace al formulario (sujeta mascarillas)](https://forms.gle/yFcrLQBACodDdqyv8) ###
 
-### Si tienes impresora 3D y quieres colaborar, puedes unirte al grupo. Tienes toda la información en el siguiente grupo de Telegram (pincha en el enlace para unirte) :
+### Si tienes impresora 3D y quieres colaborar, puedes unirte al grupo. Tienes toda la información en el siguiente grupo de Telegram (pincha en el enlace para unirte): ###
 
-### [Makers-contra-COVID19-GR](https://t.me/Impresion3DmascarasGranada
-) ###
+### [Makers-contra-COVID19-GR](https://t.me/Impresion3DmascarasGranada) ###
 
 
 #### Para cualquier información, no dudes en ponerte en contacto con nosotros a través de nuestro correo
