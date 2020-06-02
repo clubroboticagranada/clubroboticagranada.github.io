@@ -17,9 +17,9 @@ Se va a realizar con el editor VSCode, utilizando la plantilla de La Jaquería, 
 Para este taller se necesitan conocimientos básicos de Github y Jitsi.
 
 
-#### Fecha: #### Jueves 11 de junio a las 18 horas, a través de JITSI (se facilitará el enlace de la videoconferencia por correo electrónico a los participantes).
+Fecha: Jueves 11 de junio a las 18 horas, a través de JITSI (se facilitará el enlace de la videoconferencia por correo electrónico a los participantes).
 
-Hora: 18 horas, con una duración aproximada de 2 horas.
+#### Hora:#### 18 horas, con una duración aproximada de 2 horas.
 
 
 
