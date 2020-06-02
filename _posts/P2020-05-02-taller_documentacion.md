@@ -11,7 +11,7 @@ title: Taller ONLINE "Cómo documentar un proyecto"
 
 En este taller, Federico Coca, presidente del club de robótica, nos enseña cómo se debe documentar un proyecto.
 
-Se va a realizar con el editor VSCode, utilizando la plantilla de La Jaquería, creada por Cristobal Contreras. Esta plantilla está basada en la plantilla Material.
+Se va a realizar con el editor VSCode, utilizando la plantilla de La Jaquería, creada por Cristobal Contreras. Esta plantilla a su vez está basada en la plantilla Material.
 
 
 Para este taller se necesitan conocimientos básicos de Git y Jitsi.
