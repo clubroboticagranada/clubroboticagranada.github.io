@@ -9,7 +9,6 @@ title: Taller ONLINE "Cómo documentar un proyecto"
 ## TALLER ONLINE "CÓMO DOCUMENTAR UN PROYECTO" ##
 
 
-<span style="color:red">PODCAST</span>
 
 
 En este taller, Federico Coca, presidente del club de robótica, nos enseña cómo se debe documentar un proyecto.
