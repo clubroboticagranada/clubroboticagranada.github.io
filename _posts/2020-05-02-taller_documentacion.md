@@ -44,3 +44,5 @@ Hora: 18 horas, con una duración aproximada de 2 horas.
 El taller es gratuito y será asignado por riguroso orden de inscripción hasta un total de **20 asistentes**.
 
 Los socios/as del Club tienen prioridad en la inscripción.
+
+#### [Enlace al vídeo del taller](https://www.dropbox.com/s/023zq8gffkrmjt5/club_robotica_granada%20on%202020-06-11%2018-17.mp4?dl=0) ####
