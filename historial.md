@@ -1,4 +1,4 @@
-### ACTIVIDADES DEL CLUB ###
+**ACTIVIDADES DEL CLUB**
 
 * Participación, como equipo invitado, en la fase nacional de CANSAT 2020. Granada 15 y 16 de julio de 2020.
 * Taller ONLINE "Cómo documentar un proyecto". 11 junio 2020. 
