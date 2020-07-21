@@ -1,6 +1,6 @@
 ---
 layout: post
-title: INNOVA DIDACTIC, nuevo socio ORO"
+title: INNOVA DIDACTIC, nuevo socio ORO
 ---
 
 
