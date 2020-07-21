@@ -13,6 +13,7 @@
 * Taller de Edubásica con Arduinoblocks. 21 de noviembre de 2019. 20 participantes.
 * Taller de montaje y programación de Escornabot DIY. 5 y 12 de noviembre de 2019. 25 participantes.
 * Taller de Micro:bit. 13 de junio de 2019. 20 participantes.
+* Participación en la XXII feria de la ciencia del Parque de las Ciencias con una exposición de robótica educativa y un stand. 11 de mayo de 2019.
 * Taller de Scratch para chic@s. 25 de abril de 2019. 20 participantes.
 * Introducción a las FPGA's libres. Alhambra II. 4 de abril de 2019. 22 participantes.
 * Taller de Node-Red y el internet de las cosas. 21 y 28 de marzo de 2019. 26 participantes.
