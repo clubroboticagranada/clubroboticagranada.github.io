@@ -1,3 +1,6 @@
+## ACTIVIDADES DEL CLUB ##
+
+* Participación, como equipo invitado, en la fase nacional de CANSAT 2020. Granada 15 y 16 de julio de 2020.
 * Taller de introducción a Python. 26 de febrero de 2020. 24 participantes.
 * Taller de Node-red básico. 18 y 20 de febrero de 2020. 18 participantes.
 * Escornafan Workshop. 13 de febrero de 2020. 20 participantes.
