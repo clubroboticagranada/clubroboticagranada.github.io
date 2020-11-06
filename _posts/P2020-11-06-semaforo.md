@@ -4,7 +4,7 @@ title: SEMÁFORO ÓPTICO-ACÚSTICO DE CO2
 ---
 
 
-<img src="/images/SEMAFORO1.jpg" width="800" />
+<img src="/images/semaforo1.jpg" width="800" />
 
 .
 
