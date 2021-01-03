@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CAMPAÑA IMPRESIÓN SOLIDARIA
+title: CAMPAÑA DE IMPRESIÓN SOLIDARIA
 ---
 
 
