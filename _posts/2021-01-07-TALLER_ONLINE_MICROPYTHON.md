@@ -3,8 +3,17 @@ layout: post
 title: Taller online de MICROPYTHON. Nivel incial
 ---
 
+Python es un lenguaje de programación que programadores principiantes y expertos utilizan de igual manera. Python está completamente basado en texto, que puede parecer intimidante al principio, pero con un poco de orientación y práctica cualquiera puede empezar a programar.
 
-Python es un lenguaje de programación poderoso y fácil de aprender. Cuenta con estructuras de datos eficientes y de alto nivel y un enfoque simple pero efectivo a la programación orientada a objetos. La elegante sintaxis de Python y su tipado dinámico, junto con su naturaleza interpretada, hacen de éste un lenguaje ideal para scripting y desarrollo rápido de aplicaciones en diversas áreas y sobre la mayoría de las plataformas.
+La versión de Python que usa el micro:bit de la BBC se llama MicroPython.
+
+Información extraida de: https://microbit.org/es/guide/python/
+
+
+
+
+
+
 
 <img src="/images/python.jpg" width="800" />
 
