@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller online de MICROPYTHON. Nivel incial
+title: Taller online de MICROPYTHON. Nivel inicial
 ---
 
 Python es un lenguaje de programación que programadores principiantes y expertos utilizan de igual manera. Python está completamente basado en texto, que puede parecer intimidante al principio, pero con un poco de orientación y práctica cualquiera puede empezar a programar.
