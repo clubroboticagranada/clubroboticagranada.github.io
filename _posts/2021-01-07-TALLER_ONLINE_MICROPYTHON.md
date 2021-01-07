@@ -7,7 +7,8 @@ Python es un lenguaje de programación que programadores principiantes y experto
 
 La versión de Python que usa el micro:bit de la BBC se llama MicroPython.
 
-Información extraida de: https://microbit.org/es/guide/python/
+Información extraida de: [https://microbit.org/es/guide/python/](https://microbit.org/es/guide/python/)
+
 
 
 
