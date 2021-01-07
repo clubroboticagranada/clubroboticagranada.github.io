@@ -34,6 +34,10 @@ Taller dirigido a **todas las edades**, y será una introducción a la programac
 El enlace se enviará por correo electrónico a los participantes.
 
 
+Todo el material del taller lo tienes en Github: [https://github.com/pedroruizf/microbit/tree/master/python](https://github.com/pedroruizf/microbit/tree/master/python)
+
+Presentación de Manuel Hidalgo: [https://github.com/leobotmanuel/microbitMicropython](https://github.com/leobotmanuel/microbitMicropython)
+
 
 
 
