@@ -3,6 +3,11 @@ layout: post
 title: Taller online de MICROPYTHON. Nivel intermedio
 ---
 
+<img src="/images/638.jpg" width="800" />
+
+
+
+
 Python es un lenguaje de programación que programadores principiantes y expertos utilizan de igual manera. Python está completamente basado en texto, que puede parecer intimidante al principio, pero con un poco de orientación y práctica cualquiera puede empezar a programar.
 
 La versión de Python que usa el micro:bit de la BBC se llama MicroPython.
@@ -10,13 +15,6 @@ La versión de Python que usa el micro:bit de la BBC se llama MicroPython.
 Información extraida de: [https://microbit.org/es/guide/python/](https://microbit.org/es/guide/python/)
 
 
-
-
-
-
-
-
-<img src="/images/638.jpg" width="800" />
 
 
 Este taller es la continuación al de iniciación del pasado 14 de enero. 
