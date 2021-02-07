@@ -3,7 +3,7 @@ layout: post
 title: Taller online de PROCESSING niveles inicial e intermedio.
 ---
 
-<img src="/images/processing1.png" width="800" />
+<img src="/images/processing1.png" width="400" />
 
 
 # Taller de Processing (niveles inicial e intermedio)
@@ -28,13 +28,13 @@ Ponentes:
 
 Requisitos:
 
-* Ordenador con Processing instalado: https://www.processing.org/download/
+* Ordenador con Processing instalado: [https://www.processing.org/download/](https://www.processing.org/download/)
 
 Recursos para el taller:
 
-* https://github.com/pedroruizf/miniguia_processing
+* [https://github.com/pedroruizf/miniguia_processing](https://github.com/pedroruizf/miniguia_processing)
 
-* Descargarse este zip (https://github.com/pedroruizf/miniguia_processing/blob/master/archivos%20miniguia.zip) y descomprimir, se descomprime en una carpeta. Son los programas a trabajar en el taller.
+* Descargarse este zip [https://github.com/pedroruizf/miniguia_processing/blob/master/archivos%20miniguia.zip](https://github.com/pedroruizf/miniguia_processing/blob/master/archivos%20miniguia.zip) y descomprimir, se descomprime en una carpeta. Son los programas a trabajar en el taller.
 
 
 
