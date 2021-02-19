@@ -23,7 +23,7 @@ LoRaWAN es protocolo de red que usa la tecnología LoRa, para redes de baja pote
 - nodos (dispositivos): son los dispositivos finales que envían y reciben información hacia el gateway.
 
 
-<img src="/images/lorawan2.jpg" width="600" />
+<img src="/images/lorawan2.jpg" width="800" />
 
 
 
@@ -60,5 +60,4 @@ El enlace se enviará por correo electrónico a los participantes.
 
 
 
-### Inscríbete en el siguiente [ENLACE](https://forms.gle/vzDiSGaqBw2TfzME8
-)
+### Inscríbete en el siguiente [ENLACE](https://forms.gle/vzDiSGaqBw2TfzME8)
