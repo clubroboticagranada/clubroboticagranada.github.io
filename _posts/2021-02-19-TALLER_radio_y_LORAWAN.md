@@ -3,7 +3,7 @@ layout: post
 title: Taller online de RADIO Y LORAWAN.
 ---
 
-<img src="/images/lorawan.jpg" width="400" />
+<img src="/images/lorawan.jpg" width="600" />
 
 
 
@@ -11,18 +11,19 @@ LoRa es una tecnología inalámbrica (al igual que WiFi, Bluetooth, LTE, SigFox 
 
 LoRa es una tecnología ideal para conexiones a grandes distancias y para redes de IoT en las que se necesiten sensores que no dispongan de corriente eléctrica de red, teniendo grandes aplicaciones:
 
-    - para Smart Cities (ciudades inteligentes)
-    - en lugares con poca cobertura (cómo explotaciones agrícolas o ganaderas en el campo)
-    - para construir redes privadas de sensores y/o actuadores.
+
+- para Smart Cities (ciudades inteligentes)
+- en lugares con poca cobertura (cómo explotaciones agrícolas o ganaderas en el campo)
+- para construir redes privadas de sensores y/o actuadores.
 
 
-    LoRaWAN es protocolo de red que usa la tecnología LoRa, para redes de baja potencia y área amplia, LPWAN (Low Power Wide Area Network) empleado para comunicar y administrar dispositivos LoRa. El protocolo LoRaWAN se compone de gateways y nodos:
+LoRaWAN es protocolo de red que usa la tecnología LoRa, para redes de baja potencia y área amplia, LPWAN (Low Power Wide Area Network) empleado para comunicar y administrar dispositivos LoRa. El protocolo LoRaWAN se compone de gateways y nodos:
 
-        - gateways (antenas): son los encargados de recibir y enviar información a los nodos.
-        - nodos (dispositivos): son los dispositivos finales que envían y reciben información hacia el gateway.
+- gateways (antenas): son los encargados de recibir y enviar información a los nodos.
+- nodos (dispositivos): son los dispositivos finales que envían y reciben información hacia el gateway.
 
 
-<img src="/images/lorawan2.jpg" width="400" />
+<img src="/images/lorawan2.jpg" width="600" />
 
 
 
