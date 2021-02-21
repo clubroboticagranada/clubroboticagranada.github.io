@@ -38,7 +38,7 @@ En la segunda sesión analizaremos con más profundidad la tecnología Lora, el 
 Fechas:
 
 * Martes 23/02/2021 de 17:00 a 18:00 horas
-* Jueves 04/03/2021 de 17:00 a 18:00 horas   
+* Martes 09/03/2021 de 17:00 a 18:00 horas   
 
 Ponente:
 
