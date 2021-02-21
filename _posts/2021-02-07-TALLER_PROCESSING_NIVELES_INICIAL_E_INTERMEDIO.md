@@ -18,7 +18,7 @@ Processing y Arduino, por su simplicidad y facilidad de uso, son recursos de apr
 Fechas:
 
 * Inicial: 18/02/2021 de 17:00 a 19:00 horas
-* Intermedio: 25/02/2021 de 17:00 a 19:00 horas   
+* Intermedio: 04/03/2021 de 17:00 a 19:00 horas   
 
 Ponentes:
 
