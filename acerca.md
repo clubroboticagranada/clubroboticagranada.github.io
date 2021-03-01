@@ -50,12 +50,12 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 * * *
 
-[<img src="/images/logos/innova-didactic-logo.jpg" width="600">](https://shop.innovadidactic.com/es/)
+[<img src="/images/innova-didactic-logo.jpg" width="600">](https://shop.innovadidactic.com/es/)
 
 * * *
 
 
-[<img src="/images/logos/atigra.png" width="600">](https://atigra.es/)
+[<img src="/images/atigra.png" width="600">](https://atigra.es/)
 
 * * *
 
