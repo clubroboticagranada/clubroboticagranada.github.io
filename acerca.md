@@ -14,7 +14,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 
-[<img src="/images/promueven.png" width="800">](https://clubroboticagranada.github.io/)
+[<img src="/images/promueven.png" width="800">]()
 
 
 
