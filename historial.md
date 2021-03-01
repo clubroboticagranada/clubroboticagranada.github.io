@@ -1,5 +1,11 @@
 **ACTIVIDADES DEL CLUB**
 
+* Taller online de RADIO Y LORAWAN. 23 de febrero y 9 de marzo de 2021.
+* Taller online de PROCESSING. Niveles inicial e intermedio. 18 de febrero y 4 de marzo de 2021.
+* Taller online de MICROPYTHON. Nivel intermedio. 21 de enero 2021.
+* Taller online de MICROPYTHON. Nivel inicial. 14 de enero 2021.
+* Campaña de impresión solidaria. Navidad 2020.
+* Participación en la OSHWDEM 2020. 7 de noviembre de 2020.
 * Participación, como equipo invitado, en la fase nacional de CANSAT 2020. Granada 15 y 16 de julio de 2020.
 * Taller ONLINE "Cómo documentar un proyecto". 11 junio 2020. 
 * Taller de introducción a Python. 26 de febrero de 2020. 24 participantes.
