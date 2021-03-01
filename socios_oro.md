@@ -24,7 +24,3 @@ permalink: /socios_oro/
 
 
 
-[<img src="/images/colaboran.png" width="800">](https://clubroboticagranada.github.io/)
-
-
-* * *
