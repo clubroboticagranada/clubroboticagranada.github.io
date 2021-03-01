@@ -25,7 +25,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 ## Organizaciones y Entidades que colaboran ##
 
 
-[<img src="/images/colaboran.png" width="800">](https://clubroboticagranada.github.io/)
+[<img src="/images/colaboran.png" width="1000">](https://clubroboticagranada.github.io/)
 
 
 
