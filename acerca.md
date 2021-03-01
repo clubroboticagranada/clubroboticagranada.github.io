@@ -43,21 +43,31 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 ### Ayuntamiento de Albolote
 * * *
 
- [<img src="/images/logos/logo_beep.jpg" width="300">](https://www.beep.es/tienda-de-informatica/32471/granada)
 
-
-
-
-* * *
-[<img src="/images/logos/logocreatec3d.png" width="300">](https://createc3d.com/)
+[<img src="/images/logos/logo_donostierra.jpg" width="600">](https://www.editorialdonostiarra.com/)
 
 
 
 * * *
 
-[<img src="/images/logos/logo_donostierra.jpg" width="300">](https://www.editorialdonostiarra.com/)
+[<img src="/images/logos/innova-didactic-logo.jpg" width="600">](https://shop.innovadidactic.com/es/)
+
+* * *
 
 
+[<img src="/images/logos/atigra.png" width="600">](https://atigra.es/)
+
+* * *
+
+[<img src="/images/logos/logocreatec3d.png" width="200">](https://createc3d.com/)
+
+
+
+* * *
+
+
+
+ [<img src="/images/logos/logo_beep.jpg" width="200">](https://www.beep.es/tienda-de-informatica/32471/granada)
 
 
 
