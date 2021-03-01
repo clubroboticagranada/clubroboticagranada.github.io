@@ -14,17 +14,11 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 
-[<img src="/images/promueven.png" width="800">](https://aptandalucia.wordpress.com/)
+[<img src="/images/promueven.png" width="800">]()
 
 
 
 * * *
-
-
-
-
-
-
 
 
 
@@ -35,15 +29,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 
-
-
-
-
 * * *
-
-
-
-
 
 
 
