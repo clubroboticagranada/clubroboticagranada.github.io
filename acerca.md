@@ -44,7 +44,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 * * *
 
 
-[<img src="/images/logos/logo_donostierra.jpg" width="600">](https://www.editorialdonostiarra.com/)
+[<img src="/images/logos/logo_donostierra.jpg" width="400">](https://www.editorialdonostiarra.com/)
 
 
 
