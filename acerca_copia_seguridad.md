@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-permalink: /acerca/
+permalink: /acerca_old/
 ---
 
 ## ¿Quienes somos?
