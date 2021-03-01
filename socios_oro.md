@@ -7,6 +7,7 @@ permalink: /socios_oro/
 
 
 
+* * *
 
 
 [<img src="/images/logos/atigra.png" width="800">](https://atigra.es/)
