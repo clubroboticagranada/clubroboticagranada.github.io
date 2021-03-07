@@ -37,7 +37,7 @@ Ponente:
 
 
 
-### JUEVES 11 de marzo de 17:00 a 18:00 horas
+### JUEVES 11 de marzo de 17:00 a 19:00 horas
 
 
 
