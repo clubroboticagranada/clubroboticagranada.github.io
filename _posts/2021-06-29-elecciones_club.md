@@ -7,7 +7,7 @@ title: Convocatoria de elecciones en el Club
 
 
 
-## Convocatoria de elecciones en el Club ##
+
 
 
 En reunión celebrada el pasado 24 de junio se decidió realizar la convocatoria de elecciones a cargos de la junta directiva del club, según los criterios marcados por nuestros estatutos y por el reglamento de elección de cargos.
