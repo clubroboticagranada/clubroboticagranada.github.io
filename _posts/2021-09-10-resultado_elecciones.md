@@ -22,7 +22,7 @@ El resultado de las elecciones celebradas el pasado 14 de julio, para constituir
 
 ---------------------------------------------------
 
-Se adjunta certificado de acta de la elección.
+
 
 
 
