@@ -15,9 +15,6 @@ Tanto el hardware como el software de “micro:bit” es de código abierto.
 
 
 
-El taller está dirigido a **todas las edades**, y será una introducción a la programación con esta tarjeta.
-
-
 
 
 
