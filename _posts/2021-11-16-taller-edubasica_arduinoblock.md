@@ -22,7 +22,7 @@ La programación se va a realizar con [Arduinoblocks](http://www.arduinoblocks.c
 
 </p>
 
-Para poder conectar ArduinoBlocks con tu placa Arduino necesitas instalar ArduinoBlocks-Connector v5 en tu ordenador. Puedes descargarlo desde el siguiente enlace: http://www.arduinoblocks.com/web/site/abconnector
+Para poder conectar ArduinoBlocks con tu placa Arduino necesitas instalar ArduinoBlocks-Connector v5 en tu ordenador. Puedes descargarlo desde el siguiente [enlace](http://www.arduinoblocks.com/web/site/abconnector5).
 
 El taller está dirigido al público en general, interesado en la programación y la robótica.
 
@@ -33,7 +33,7 @@ Se va a celebrar el día 25 de Noviembre de 2021 en el OPEN LAB del Parque de la
 Será impartido por ***Manuel Hidalgo,*** desarrollador de la placa y ***Federico Coca***,  miembros del Club de Robótica.
 
 
-Número de participantes : 20,  seleccionados por riguroso orden de inscripción.
+Número de participantes : 20,  seleccionados por riguroso orden de inscripción con preferencias para soci@s del club.
 
 
 * Lugar: [Parque de las Ciencias, sala OPEN LAB](https://goo.gl/maps/aQC1afhE8HR9uaVx8)
