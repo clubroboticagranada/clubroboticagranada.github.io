@@ -3,7 +3,7 @@ layout: post
 title: Montaje y programación de Escornabot DIY
 ---
 
-El ***Club Robótica Granada*** organiza un taller de construcción y programación del Robot libre Escornabot en su versión DIY (Do It Yourself), impartido por *Pedro Ruiz*, *Angela Pozo* y *Federico Coca* que constará de dos sesiones.
+El ***Club Robótica Granada*** organiza un taller de construcción y programación de forma gráfica del Robot libre Escornabot en su versión DIY (Do It Yourself), impartido por *Manuel Hidalgo*, *Angela Pozo*, *Federico Coca* y *Pedro Ruiz* que constará de dos sesiones.
 
 <img src="http://clubroboticagranada.github.io/images/escornabot_diy.jpg" width="500" />
 
