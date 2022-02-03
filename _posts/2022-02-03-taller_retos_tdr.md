@@ -4,7 +4,7 @@ title: TALLER DE RETOS PROGRAMADOS CON ARDUINOBLOCKS EN TdR STEAM + KEYESTUDIO U
 ---
 
 <p align="center" >
-<img src="/images/tdr.jpg" width="350" height="280"/>
+<img src="/images/tdr.JPG" width="350" height="280"/>
 
 
 </p>
