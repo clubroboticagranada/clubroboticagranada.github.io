@@ -4,7 +4,7 @@ title: Recogido el material donado por la OSL
 ---
 
 <p align="center" >
-<img src="/images/fede_osl.jpg" width="600" height="350"/>
+<img src="/images/fede_osl.jpg" width="600" height="400"/>
 
 
 </p>
