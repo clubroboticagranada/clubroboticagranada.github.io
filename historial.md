@@ -1,5 +1,9 @@
 **ACTIVIDADES DEL CLUB**
 
+* Taller de retos programados con Arduinoblocks en TdR steam + keyestudio UNO. 17, 24 de febrero y 3 de marzo de 2022.
+* Taller de montaje y programación de Escornabot DIY. 23 de noviembre de 2021.
+* Taller de Micro:bit con Makecode. 9 de noviembre de 2021.
+* Taller online de MACHINE LEARNING. 11 de marzo de 2021.
 * Taller online de RADIO Y LORAWAN. 23 de febrero y 9 de marzo de 2021.
 * Taller online de PROCESSING. Niveles inicial e intermedio. 18 de febrero y 4 de marzo de 2021.
 * Taller online de MICROPYTHON. Nivel intermedio. 21 de enero 2021.
