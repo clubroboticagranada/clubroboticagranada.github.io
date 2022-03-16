@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLER DE MONTAJE Y PROGRAMACIÓN DE MASAYLO
-
 ---
 
 <p align="center" >
