@@ -4,7 +4,7 @@ title: JUGANDO CON LA ROBÓTICA. TALLER GRATUITO
 ---
 
 <p align="center" >
-<img src="/images/taller_cijuela.jpg" width="800" height="600"/>
+<img src="/images/taller_cijuela.jpg" width="600" height="800"/>
 
 </p>
 
