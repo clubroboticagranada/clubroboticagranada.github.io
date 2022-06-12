@@ -1,5 +1,7 @@
 **ACTIVIDADES DEL CLUB**
 
+* Taller: Jugando con la robótica. Realizado el Cijuela. 6 de abril de 2022.
+* Taller de montaje y programación de Masaylo. 24, 29 y 31 de marzo de 2022.
 * Taller de retos programados con Arduinoblocks en TdR steam + keyestudio UNO. 17, 24 de febrero y 3 de marzo de 2022.
 * Taller de montaje y programación de Escornabot DIY. 23 de noviembre de 2021.
 * Taller de Micro:bit con Makecode. 9 de noviembre de 2021.
