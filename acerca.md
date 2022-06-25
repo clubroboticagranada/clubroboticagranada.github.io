@@ -35,7 +35,7 @@ Somos una Organización de ayuda a la difusión y democratización de la tecnolo
 
 
 ## Localización
-[Mapa](https://goo.gl/maps/apqiUdvcC9s)
+[//]: # [Mapa](https://goo.gl/maps/apqiUdvcC9s)
 
 
 
