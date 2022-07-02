@@ -4,8 +4,10 @@ title: LA FUNDACIÓN CAJA RURAL DE GRANADA COLABORA CON EL CLUB
 ---
 
 <p align="center" >
+  
+  <img src="/images/LOGOFUNDACIONCRG.png" width="200" height="2000"/>
 
-<img src="/images/LOGOFUNDACIONCRG.png" width="300" height="300"/>
+<img src="/images/LOGOFUNDACIONCRG.png" width="500" height="500"/>
 
 </p>
 ***La Fundación Caja Rural de Granada*** es colaboradora del Club Robótica Granada desde este mes.
