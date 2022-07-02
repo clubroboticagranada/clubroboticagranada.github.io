@@ -18,9 +18,9 @@ permalink: /socios_oro/
 
 
 * * *
-[<img src="/images/logos/logo_donostiarra.jpg" width="800">](https://www.editorialdonostiarra.com/)
+//. [<img src="/images/logos/logo_donostiarra.jpg" width="800">](https://www.editorialdonostiarra.com/)
 
 * * *
 
-
+.//
 
