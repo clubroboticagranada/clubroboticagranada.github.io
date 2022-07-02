@@ -2,6 +2,9 @@
 layout: post
 title: DAVID CUARTIELLES Y CAMILO PARRA SOCIOS DE HONOR DEL CLUB
 ---
+<img src="/images/cuartielles.jpg" width="600" height="480"/>
+
+
 
 <p align="center" >
 
