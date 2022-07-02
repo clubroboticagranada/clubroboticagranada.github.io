@@ -5,7 +5,7 @@ title: LA FUNDACIÓN CAJA RURAL DE GRANADA COLABORA CON EL CLUB
 
 <p align="center" >
   
-  <img src="/images/LOGOFUNDACIONCRG.png" width="200" height="2000"/>
+  <img src="/images/LOGOFUNDACIONCRG.png" width="200" height="200"/>
 
 <img src="/images/LOGOFUNDACIONCRG.png" width="500" height="500"/>
 
