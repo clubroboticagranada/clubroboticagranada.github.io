@@ -16,11 +16,8 @@ permalink: /socios_oro/
 
 [<img src="/images/logos/innova-didactic-logo.jpg" width="800">](https://shop.innovadidactic.com/es/)
 
-//.
-* * *
- [<img src="/images/logos/logo_donostiarra.jpg" width="800">](https://www.editorialdonostiarra.com/)
 
 * * *
 
-.//
+
 
