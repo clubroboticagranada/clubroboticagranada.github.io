@@ -19,8 +19,6 @@ permalink: /socios_oro/
 
 * * *
 
-prueba
+
 > prueba
->prueba
->
 
