@@ -1,5 +1,6 @@
 **ACTIVIDADES DEL CLUB**
 
+* Miniferia en el OPENLAB oraganiza para el CPR Las Ramblas y profesorado de Dírcal. 7 y 9 de junio de 2022.
 * Taller: Jugando con la robótica. Realizado el Cijuela. 6 de abril de 2022.
 * Taller de montaje y programación de Masaylo. 24, 29 y 31 de marzo de 2022.
 * Taller de retos programados con Arduinoblocks en TdR steam + keyestudio UNO. 17, 24 de febrero y 3 de marzo de 2022.
