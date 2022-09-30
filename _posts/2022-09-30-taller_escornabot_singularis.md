@@ -22,7 +22,7 @@ Lugar: [Parque de las Ciencias, sala OPEN LAB](https://goo.gl/maps/aQC1afhE8HR9u
 
 
 #### Inscripción ####
-Inscríbete en el siguiente [**enlace**](https://forms.gle/Ju3uLdttLj4N5vsv9)
+Inscríbete en el siguiente [**enlace**](https://forms.gle/sGSniMLN1bN2jDKo6)
 
 <p align="center" >
 <img src="/images/singularis.jpg" width="400" height="400"/>
