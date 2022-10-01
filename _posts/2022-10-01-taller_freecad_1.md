@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TALLER DE FREECAD.
+title: DISEÑA EN 3D CON FREECAD.
 ---
 
 <p align="center" >
