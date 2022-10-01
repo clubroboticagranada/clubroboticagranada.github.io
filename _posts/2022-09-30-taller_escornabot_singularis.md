@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TALLER JUEGOS CON ESCORNABOT
+title: TALLER DE JUEGOS CON ESCORNABOT
 ---
 
 <p align="center" >
