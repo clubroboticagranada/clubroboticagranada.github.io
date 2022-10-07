@@ -9,13 +9,13 @@ title: TALLER DE ARDUINO + SHIELD TDR-STEAM CON ARDUINOBLOCKS
 </p>
 Este taller va dirigido a toda la comunidad interesada en la robótica y programación.
 
-El kit TdR STEAM es ideal para profesores y alumnos de secundaria, bachillerato y FP.
+El kit TdR STEAM está recomendado para profesores y alumnos de secundaria, bachillerato y FP.
 
 
 
 Con este kit se pueden realizar una infinidad de proyectos con las 15 funciones que dispone la placa Imagina TdR STEAM.
 
-Este kit es ideal para iniciar al alumnado a la robótica y a la programación.
+Es ideal para iniciar al alumnado a la robótica y a la programación.
 
 
 La programación se va a realizar con [ARDUINOBLOCKS](http://www.arduinoblocks.com/)
@@ -23,6 +23,8 @@ La programación se va a realizar con [ARDUINOBLOCKS](http://www.arduinoblocks.c
 PARA REALIZAR ESTE TALLER NECESITAMOS LLEVAR NUESTRO ORDENADOR PORTÁTIL.
 
 La placa arduino y la TDR-steam las facilita el Club de robótica Granada.
+
+
 
 ##### Impartido por miembros del Club de Robótica.
 
