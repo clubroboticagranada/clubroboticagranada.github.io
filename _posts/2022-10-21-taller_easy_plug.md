@@ -14,13 +14,15 @@ title: EASY PLUG:INTRODUCCIÓN A LA PROGRAMACIÓN CON ARDUINOBLOCKS
 ### Taller dirigido a chicos/as de hasta 12 años.
 
 
+El Kit Keyestudio Easy Plug  se basa en una plataforma Arduino de código abierto, flexible y fácil de usar. 
 
+La placa de control del kit viene con conectores RJ11 para conectar los sensores y actuadores, esto hace que las conexiones sean sencillas y no se necesite trabajar con protoboards. 
 
 La programación se va a realizar con [ARDUINOBLOCKS](http://www.arduinoblocks.com/)
 
 PARA REALIZAR ESTE TALLER TIENES QUE TRAER TU ORDENADOR PORTÁTIL con ArduinoBlocks Connector ya instalado.
 
-Puedes descargarlo de http://www.arduinoblocks.com/web/site/abconnector5 donde encontrarás también las instrucciones para la instalación.
+Puedes descargarlo de [http://www.arduinoblocks.com/web/site/abconnector5](http://www.arduinoblocks.com/web/site/abconnector5) donde encontrarás también las instrucciones para la instalación.
 
 
 
