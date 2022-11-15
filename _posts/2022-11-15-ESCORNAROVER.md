@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESCORNAROVER; DISEÑO, FUNCIONAMIENTO Y MISIÓN
+title: ESCORNAROVER: DISEÑO, FUNCIONAMIENTO Y MISIÓN
 ---
 
 <p align="center" >
