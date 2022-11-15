@@ -30,7 +30,7 @@ En esta charla se va a explicar el equipamiento y programación de cada uno de l
 
 </p>
 
-Documentación: https://github.com/leobotmanuel/ExploradorEscornaRover
+Documentación: [https://github.com/leobotmanuel/ExploradorEscornaRover](https://github.com/leobotmanuel/ExploradorEscornaRover)
 
 En los links están las fuentes de este proyecto.
 
