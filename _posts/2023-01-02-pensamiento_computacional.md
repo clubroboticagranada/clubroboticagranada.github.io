@@ -19,7 +19,7 @@ A través de este taller, nos adentraremos en conceptos básicos de robótica, r
 
 ¿te animas?
 
-ESTE TALER ESTÁ DIRIGIDO A CHICOS/AS DE HASTA 12 AÑOS.
+ESTE TALLER ESTÁ DIRIGIDO A CHICOS/AS DE HASTA 12 AÑOS.
 
 
 
