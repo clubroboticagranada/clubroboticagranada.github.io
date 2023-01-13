@@ -6,7 +6,7 @@ title: Taller de IoT con ESP32 STEAMaker
 
 <img src="/images/placa1.jpg" width="600" height="600"/>
 
-</p>
+
 
 
 La placa ESP32 Plus STEAMaker nos ofrece una cantidad ilimitada de prestaciones al estar basada en un microcontrolador de 32 bits con conectividad Wifi y Bluetooth, integrada en la propia placa y zócalo para tarjetas micro SD para el almacenamiento de datos. También dispone de conexiones para todas las entradas y salidas con posibilidad de tener la alimentación adjunta y  puertos de expansión I2C para poder conectar diferentes dispositivos directamente en la placa.
