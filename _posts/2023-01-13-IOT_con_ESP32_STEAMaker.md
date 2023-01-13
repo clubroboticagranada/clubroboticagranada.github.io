@@ -40,4 +40,4 @@ Es conveniente traer ya instalado en el ordenador el ArduinoBlocks Connector par
 
 Puedes descargarlo desde [http://www.arduinoblocks.com/web/site/abconnector5](http://www.arduinoblocks.com/web/site/abconnector5)
 
-### Inscríbete en el siguiente [ENLACE]()
+### Inscríbete en el siguiente [ENLACE](https://forms.gle/5vAToZy6hU6wwKBy6)
