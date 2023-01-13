@@ -3,8 +3,7 @@ layout: post
 title: Taller de IoT con ESP32 STEAMaker
 
 ---
-### TALLER DE ESP32 STEAMAKERS + TDR-STEAM CON ARDUINOBLOCKS
-<p align="center" >
+
 <img src="/images/placa1.jpg" width="600" height="600"/>
 
 </p>
