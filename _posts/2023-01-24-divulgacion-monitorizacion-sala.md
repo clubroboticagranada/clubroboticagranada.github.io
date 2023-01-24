@@ -16,6 +16,8 @@ En la jornada de divulgación, se presentará el proyecto realizado para el even
 
 
 
+Puedes encontrar toda la documentación en [https://leobotmanuel.github.io/MonitorizacionPersonasSalas/](https://leobotmanuel.github.io/MonitorizacionPersonasSalas/)
+
 
 ######  Martes 31 de enero de 2023.
 
