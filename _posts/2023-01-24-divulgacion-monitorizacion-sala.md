@@ -11,7 +11,9 @@ title: JORNADA DE DIVULGACION. PROYECTO DE MONITORIZACION DE SALA Y PONENTES
 </p>
 
 
-En mayo de 2022 se celebró la octava edición del evento “Desgranando Ciencia”, organizado por la asociación Hablando de Ciencia, en la que el Club Robótica Granada estuvo presente con dos charlas, una sobre la monitorización de la sala del Teatro Isabel la Católica y otra sobre monitorización de ponentes, impartidas por José María Fernández Domenech y Manuel Hidalgo Díaz. https://youtu.be/H6mHUI2tjks, minutos 1:36:23 y 3:18:47
+En mayo de 2022 se celebró la octava edición del evento “Desgranando Ciencia”, organizado por la asociación Hablando de Ciencia, en la que el Club Robótica Granada estuvo presente con dos charlas, una sobre la monitorización de la sala del Teatro Isabel la Católica y otra sobre monitorización de ponentes, impartidas por José María Fernández Domenech y Manuel Hidalgo Díaz. [https://youtu.be/H6mHUI2tjks](https://youtu.be/H6mHUI2tjks), minutos 1:36:23 y 3:18:47
+
+
 En la jornada de divulgación, se presentará el proyecto realizado para el evento Desgranando Ciencia, proyecto IoT muy completo tanto por la cantidad de magnitudes que se monitorizaron, las arquitecturas empleadas y los sistemas de comunicación utilizados.
 
 
