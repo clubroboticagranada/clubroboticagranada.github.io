@@ -17,7 +17,7 @@ El encuentro se ha celebrado los días 17 y 18 de febrero de 2023 en la escuela 
 
 Nuestro club ha presentado las actividades llevadas a cabo hasta ahora, los proyectos en los que estamos trabajando y se adelantaron nuevos proyectos para el futuro más inmediato.
 
-También se ha impartido un taller de IoT con ESP32 STRAMaker en el que los participantes han comprobado la potencia y capacidad de esta placa.
+También se ha impartido un taller de IoT con ESP32 STEAMaker en el que los participantes han comprobado la potencia y capacidad de esta placa.
 
 
 Otro éxito del club robótica Granada.
