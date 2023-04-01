@@ -2,7 +2,7 @@
 layout: post
 title: Taller de iniciación a la programación en Python
 ---
-<img src="/images/Python.png" width="500" />
+<img src="/images/Python.png" width="600" />
 
 
 
