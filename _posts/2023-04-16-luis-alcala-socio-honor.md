@@ -12,7 +12,7 @@ El sábado 15 de abril de 2023 se nombró socio de honor del club a ***Luis Alca
 
 Esta distinción se otorga a las personas que apuestan por el club y hacen  posible que avance en sus objetivos.
 
-<img src="/images/luis_discurso.jpg" width="600" />
+<img src="/images/luis_discurso.JPG" width="600" />
 
 Para el club es un orgullo contar con su presencia.
 
