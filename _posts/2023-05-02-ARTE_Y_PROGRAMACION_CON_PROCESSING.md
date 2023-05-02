@@ -35,7 +35,9 @@ Requisitos:
 
 Recursos para el taller:
 
-* Toda la documentación del taller la puedes ver en https://github.com/pedroruizf/miniguia_processing
+* Toda la documentación del taller la puedes ver en [https://github.com/pedroruizf/miniguia_processing](https://github.com/pedroruizf/miniguia_processing)
+
+
 
 
 
