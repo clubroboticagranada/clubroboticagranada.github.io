@@ -4,7 +4,7 @@ title: Arte y programación con Processing
 
 ---
 
-<img src="/images/processing.png" width="800" />
+<img src="/images/processing.png" width="600" />
 
 
 
