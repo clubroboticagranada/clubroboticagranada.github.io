@@ -24,9 +24,8 @@ Para la Fase Clasificatoria de las Olimpiadas los alumn@s realizaron el control 
 #### [Video a Proyecto STEAM Casa – Base Lunar Domótica IES Blás Infante de Ogíjares](https://www.instagram.com/reel/CtHqqqxIe-4/?igshid=MTc4MmM1YmI2Ng==)
 
 #### [Enlace  al video en Canva](https://www.canva.com/design/DAFk47_Ro5M/E83vA3JI9NFdZJyejre39A/watch?utm_content=DAFk47_Ro5M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
----------------------------
-#### [Enlace  al Drive de Video Casa Domótica Equipo Clasificado Final I Olimpiada Teleco]
-(https://drive.google.com/file/d/1GUQ2C8mYTo3ktq5kZWOv2lIupAEwsdil/view?usp=sharing)
+
+#### [Enlace  al Drive de Video Casa Domótica Equipo Clasificado Final I Olimpiada Teleco](https://drive.google.com/file/d/1GUQ2C8mYTo3ktq5kZWOv2lIupAEwsdil/view?usp=sharing)
 
 
 
