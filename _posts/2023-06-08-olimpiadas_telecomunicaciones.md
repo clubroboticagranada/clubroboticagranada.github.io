@@ -11,12 +11,12 @@ title: CLASIFICACIÓN A LA FASE FINAL  I OLIMPIADAS  NACIONALES DE TELECOMUNICAC
 
 
 
-El pasado 29 de mayo en la ETSIIT ( Escuela Técnica Superior de Ingenierías Informática y Telecomunicación ) de la UGR, tres equipos de alumn@s de 3º y 4º ESO del IES Blás Infante de Ogígares  presentaron su Proyecto de Casa Domótica controlada por IOT con Arduinoblocks y la placa ESP32 STEAMakers, clasificándose un Equipo para la Fase Final  de la   I Olimpiada Nacional de TELECO que tendrá lugar previsiblemente el próximo 23 de junio en Málaga.
+El pasado 29 de mayo en la ETSIIT ( Escuela Técnica Superior de Ingenierías Informática y Telecomunicación ) de la UGR, tres equipos de alumn@s de 3º y 4º ESO del IES Blás Infante de Ogíjares  presentaron su Proyecto de Casa Domótica controlada por IOT con Arduinoblocks y la placa ESP32 STEAMakers, clasificándose un equipo para la Fase Final  de la   I Olimpiada Nacional de TELECO que tendrá lugar, previsiblemente, el próximo 23 de junio en Málaga.
 
-Este proyecto comenzó con la formación inicial  recibida por el profesorado del IES a través de  diversos Talleres y curso impartidos por el Club Robótica Granada y @feriasteamakers.  
-Posteriormente el alumnado en clase de Tecnología y Robótica  diseñaron, construyeron y programaron sus Casas  Domóticas controladas de forma inalámbrica con mando de IR que presentaron en la  Feria STEAMakers del pasado 23 de febrero en la ETSIIT.
+Este proyecto comenzó con la formación inicial  recibida por el profesorado del IES a través de  diversos talleres y curso impartidos por el Club Robótica Granada y @feriasteamakers.  
+Posteriormente el alumnado en clase de Tecnología y Robótica  diseñaron, construyeron y programaron sus Casas Domóticas controladas de forma inalámbrica con mando de IR que presentaron en la  Feria STEAMakers del pasado 23 de febrero en la ETSIIT.
 
-Para la Fase Clasificatoria de las Olimpiadas los alumn@s realizaron el control remoto IOT de sus casas con Servidor Web HTTP, Telegram_bot y el uso de Thing Speak y ahora se preparan para la Final con el asesoramiento de Atigra Consultores S.L.L.
+Para la fase clasificatoria de las Olimpiadas, los alumn@s realizaron el control remoto IOT de sus casas con servidor Web HTTP, Telegram_bot y el uso de Thing Speak, y ahora se preparan para la Final con el asesoramiento de Atigra Consultores S.L.L.
 
 
 
