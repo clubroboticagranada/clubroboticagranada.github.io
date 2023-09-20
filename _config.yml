@@ -6,7 +6,7 @@
 name: Club Robótica Granada
 
 # Short bio or description (displayed in the header)
-description: Web del Club de Tecnología, Programación y Robótica de Granada
+description: Web de la Asociación Club Robótica Granada
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logos/logo_club_100.png
@@ -27,7 +27,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: clubroboticagra
+  x-twitter: clubroboticagra
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
