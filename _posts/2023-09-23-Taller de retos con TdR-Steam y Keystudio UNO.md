@@ -1,17 +1,9 @@
 ---
 layout: post
 title: Taller de retos con TdR-Steam y keystudio UNO
-
-
-
-
-
 ---
-
 <center>
-
 <img src="/images/TdR-STEAM.png" width="400" />
-
 </center>
 
 ##### Comenzamos el nuevo curso con un taller de retos con keystudio UNO y TdR-Steam.
