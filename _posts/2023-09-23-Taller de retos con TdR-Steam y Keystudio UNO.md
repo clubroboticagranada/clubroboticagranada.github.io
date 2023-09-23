@@ -30,7 +30,7 @@ Los distintos bloques sirven para leer y escribir las entradas y salidas de la p
 
 <center>
 
- ## Inscríbete en el siguiente [ENLACE](https://forms.gle/DSxL5EUWvPbqVYgY9)
+ Inscríbete en el siguiente [ENLACE](https://forms.gle/DSxL5EUWvPbqVYgY9)
 
 
 </center>
