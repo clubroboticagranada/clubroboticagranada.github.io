@@ -23,7 +23,7 @@ Los distintos bloques sirven para leer y escribir las entradas y salidas de la p
 
 #### El taller es apto para chicos/chicas a partir de 8 años.
 
-#### JUEVES 5 de octubre de 2023, en el OPENLAB del Parque de las Ciencias.
+#### JUEVES 5 de octubre de 2023, 17 horas, en el OPENLAB del Parque de las Ciencias.
 
 
 
