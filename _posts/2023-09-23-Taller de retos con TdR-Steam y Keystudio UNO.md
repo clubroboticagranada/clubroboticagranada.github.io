@@ -22,7 +22,8 @@ Vamos a programar con [ARDUINOBLOCKS](http://www.arduinoblocks.com/).
 
 Es conveniente traer ya instalado en el ordenador el ArduinoBlocks Connector para tu sistema operativo.
 
-Puedes descargarlo desde http://www.arduinoblocks.com/web/site/abconnector5
+Puedes descargarlo desde [http://www.arduinoblocks.com/web/site/abconnector5](http://www.arduinoblocks.com/web/site/abconnector5)
+
 
 ARDUINOBLOCKS es un lenguaje de programación gráfico por “Bloques” creado por el profesor Juanjo López. Está pensado para que niños y niñas aprendan a programar con placas Arduino a partir de los 8 años.
 
