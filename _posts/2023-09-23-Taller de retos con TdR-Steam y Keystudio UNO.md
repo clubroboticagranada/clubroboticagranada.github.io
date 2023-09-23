@@ -10,7 +10,7 @@ title: Taller de retos con TdR-Steam y keystudio UNO
 
 <center>
 
-<img src="/images/TdR-STEAM.png" width="600" />
+<img src="/images/TdR-STEAM.png" width="400" />
 
 </center>
 
