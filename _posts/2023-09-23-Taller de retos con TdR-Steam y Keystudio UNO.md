@@ -28,11 +28,9 @@ Los distintos bloques sirven para leer y escribir las entradas y salidas de la p
 
 
 
-<center>
 
  Inscríbete en el siguiente [ENLACE](https://forms.gle/DSxL5EUWvPbqVYgY9)
 
 
-</center>
 
 Tienes todo el contenido del taller en el siguiente [ENLACE A GITHUB](https://fgcoca.github.io/TdR-STEAM-and_UNO/)
