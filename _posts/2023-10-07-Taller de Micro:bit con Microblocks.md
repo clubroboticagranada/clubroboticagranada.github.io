@@ -15,7 +15,7 @@ Microblocks es una aplicación de programación de microcontroladores de forma g
 - El programa, una vez ejecutado en la placa con cable USB, queda guardado en su interior y se peude ejecutar.
 - Permite programar y ejecutar tareas en paralelo (multitarea).
 - Permite exportar un programa de una placa a otro tipo de placa.
-- Permite recuperar, en el entorno de programación, el lprograma que contiene la placa.
+- Permite recuperar, en el entorno de programación, el programa que contiene la placa.
    
 
 
