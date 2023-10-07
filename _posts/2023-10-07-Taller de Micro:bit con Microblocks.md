@@ -29,8 +29,7 @@ En la web de microblocks vienen descritas las ventajas de la aplicación: [https
 En este enlace os dejamos la documentación de cómo empezar con microblocks: [https://microblocks.fun/get-started](https://microblocks.fun/get-started)
 
 
-
-  #### REQUISITOS:
+#### REQUISITOS:
   
 Ordenador portátil con MicroBlocks instalado. MicroBlocks se puede obtener aqui: [https://microblocks.fun/download
 ](https://microblocks.fun/download)
