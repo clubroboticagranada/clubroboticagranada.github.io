@@ -9,13 +9,15 @@ title: Taller de Micro:bit con MicroBlocks
 El taller tiene como objetivo enseñar a controlar Micro:bit a través del entorno de programación microblocks.
 Microblocks es una aplicación de programación de microcontroladores de forma gráfica (por bloques) que presenta ventajas sobre otras ya existentes, como son:
 
-    • Es software libre.
-    • Permite controlar varios tipos de placas como: micro:bit, robot maqueen, esp32, arduino, etc.
-    • Programación de forma interactiva en tiempo real (ejecuto código y se muestra en la placa).
-    • El programa una vez ejecutado en la placa con cable usb, queda guardado en su interior y se puede ejecutar.
-    • Permite programar y ejecutar tareas en paralelo (multitarea).
-    • Permite exportar un programa de una placa a otro tipo de placa.
-    • Permite recuperar en el entorno de programación el programa que contiene la placa.
+- Es software libre.
+- Permite controlar varios tipos de placas como: micro:bit, robot maqueen, esp32, arduino, etc..
+- Programación de forma interactiva en tiempo real (ejecuto código y se muestra en la placa).
+- El programa, una vez ejecutado en la placa con cable USB, queda guardado en su interior y se peude ejecutar.
+- Permite programar y ejecutar tareas en paralelo (multitarea).
+- Permite exportar un programa de una placa a otro tipo de placa.
+- Permite recuperar, en el entorno de programación, el lprograma que contiene la placa.
+   
+
 
 
 
