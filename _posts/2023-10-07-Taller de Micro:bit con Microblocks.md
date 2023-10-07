@@ -31,7 +31,8 @@ En este enlace os dejamos la documentación de cómo empezar con microblocks: [h
 
 
   #### REQUISITOS:
-  Ordenador portátil con MicroBlocks instalado. MicroBlocks se puede obtener aqui: [https://microblocks.fun/download
+  
+Ordenador portátil con MicroBlocks instalado. MicroBlocks se puede obtener aqui: [https://microblocks.fun/download
 ](https://microblocks.fun/download)
 
 Recursos web para el taller: [https://pedroruizf.github.io/retos_microbit_microblocks/](https://pedroruizf.github.io/retos_microbit_microblocks/)
@@ -39,8 +40,7 @@ Recursos web para el taller: [https://pedroruizf.github.io/retos_microbit_microb
 
 
 Con equipos EducaAndos se puede descargar desde el siguente enlace: [https://microblocks.fun/downloads/latest/standalone/ublocks-linux64bit.zip](https://microblocks.fun/downloads/latest/standalone/ublocks-linux64bit.zip)
-
-
+Se trata de un archivo Appimage que no necesita instalación.
 
 #### Será impartido por PEDRO RUIZ FERNÁNDEZ, y es apto para chicos/chicas a partir de 12 años.
 
