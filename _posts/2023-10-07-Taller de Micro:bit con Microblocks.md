@@ -42,7 +42,7 @@ Con equipos EducaAndos se puede descargar desde el siguente enlace: [https://mic
 
 
 
-#### Será impartido por PEDRO RUIZ FERNÁNDEZ, y es apto para chicos/chicas a partir de 8 años.
+#### Será impartido por PEDRO RUIZ FERNÁNDEZ, y es apto para chicos/chicas a partir de 12 años.
 
 #### JUEVES 19 de octubre de 2023, 17 horas, en el OPENLAB del Parque de las Ciencias.
 
