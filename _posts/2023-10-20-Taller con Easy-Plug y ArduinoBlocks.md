@@ -32,15 +32,21 @@ Gracias al entorno de programación por bloques de ArduinoBlocks con una interfa
 
 
 
-#### REQUISITOS:
+#### ¿QUÉ NECESITAS?
 
-Ordenador portátil con AB-Connector v5 instalado.
+
+Ordenador portátil para trabajar con http://www.arduinoblocks.com/ 
+
+Es necesario registrarse en ArduinoBlocks utilizando un correo válido, pues habrá que validar la cuenta con ese correo, y crear un nuevo usuario.
+
+Tener descargada la versión de ArduinoBlocks Connector para subir el programa a nuestra placa. Actualmente, está disponible para estos sistemas operativos: Windows, Ubuntu, MacOS, Chromebook y Raspberry Pi.
+
 Puedes descargarlo de aqui: [http://www.arduinoblocks.com/web/site/abconnector5](http://www.arduinoblocks.com/web/site/abconnector5)
 
 
-#### Será impartido por PABLO MORAGA, y es apto para chicos/chicas a partir de 8 años.
+#### Será impartido por PABLO MORAGA, y es apto para chicos/chicas de 8 a 12 años.
 
-#### JUEVES 26 de octubre de 2023, 17 horas, en el OPENLAB del Parque de las Ciencias.
+#### JUEVES 26 de octubre de 2023, 17 horas, en el OPENLAB del Parque de las Ciencias. Se prevé una duración aproximada de hora y media. 
 
 
 
@@ -48,3 +54,6 @@ Puedes descargarlo de aqui: [http://www.arduinoblocks.com/web/site/abconnector5]
 
  Inscríbete en el siguiente [ENLACE](https://forms.gle/CgftcP1JPwwub5rT9)
  
+
+
+
