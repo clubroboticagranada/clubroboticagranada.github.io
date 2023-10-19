@@ -35,7 +35,7 @@ Gracias al entorno de programación por bloques de ArduinoBlocks con una interfa
 #### ¿QUÉ NECESITAS?
 
 
-Ordenador portátil para trabajar con http://www.arduinoblocks.com/ 
+Ordenador portátil para trabajar con http://www.arduinoblocks.com/
 
 Es necesario registrarse en ArduinoBlocks utilizando un correo válido, pues habrá que validar la cuenta con ese correo, y crear un nuevo usuario.
 
@@ -46,14 +46,10 @@ Puedes descargarlo de aqui: [http://www.arduinoblocks.com/web/site/abconnector5]
 
 #### Será impartido por PABLO MORAGA, y es apto para chicos/chicas de 8 a 12 años.
 
-#### JUEVES 26 de octubre de 2023, 17 horas, en el OPENLAB del Parque de las Ciencias. Se prevé una duración aproximada de hora y media. 
+#### JUEVES 26 de octubre de 2023, 17 horas, en el OPENLAB del Parque de las Ciencias. Se prevé una duración aproximada de hora y media.
 
 
 
 
 
  Inscríbete en el siguiente [ENLACE](https://forms.gle/CgftcP1JPwwub5rT9)
- 
-
-
-
