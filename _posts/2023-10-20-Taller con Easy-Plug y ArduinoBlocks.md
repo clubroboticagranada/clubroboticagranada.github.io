@@ -22,7 +22,7 @@ Gracias al entorno de programación por bloques de ArduinoBlocks con una interfa
 
 
 <center>
-<img src="/images/ARDUINOBLOCKS.png" width="400" />
+<img src="/images/arduinoblocks.png" width="400" />
 </center>
 
 
