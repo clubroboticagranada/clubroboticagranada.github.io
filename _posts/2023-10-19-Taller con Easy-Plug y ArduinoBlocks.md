@@ -35,7 +35,7 @@ Gracias al entorno de programación por bloques de ArduinoBlocks con una interfa
 #### ¿QUÉ NECESITAS?
 
 
-Ordenador portátil para trabajar con http://www.arduinoblocks.com/
+Ordenador portátil para trabajar con [http://www.arduinoblocks.com/](http://www.arduinoblocks.com/)
 
 Es necesario registrarse en ArduinoBlocks utilizando un correo válido, pues habrá que validar la cuenta con ese correo, y crear un nuevo usuario.
 
