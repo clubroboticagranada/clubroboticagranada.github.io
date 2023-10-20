@@ -44,7 +44,7 @@ Tener descargada la versión de ArduinoBlocks Connector para subir el programa a
 Puedes descargarlo de aqui: [http://www.arduinoblocks.com/web/site/abconnector5](http://www.arduinoblocks.com/web/site/abconnector5)
 
 
-#### Será impartido por PABLO MORAGA, y es apto para chicos/chicas de 8 a 12 años.
+#### Será impartido por PABLO MORAGA, y es apto para chicos/chicas a partir de 8 años.
 
 #### JUEVES 26 de octubre de 2023, 17 horas, en el OPENLAB del Parque de las Ciencias. Se prevé una duración aproximada de hora y media.
 
