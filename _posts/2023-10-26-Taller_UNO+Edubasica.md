@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller de Arduino UNO y Edubásica(shield)
+title: Taller de Arduino UNO y Edubásica (shield)
 ---
 <center>
 <img src="/images/edubasica01.jpg" width="400" />
