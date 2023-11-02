@@ -1,5 +1,6 @@
 **ACTIVIDADES DEL CLUB**
 
+* [Borrador memoria de actividades del curso 23/24](https://docs.google.com/document/d/1NR_Qr1NNK9VbyRE4jEpKJM-a8r41N2hTwCQKFZYEmBo/edit?usp=sharing)
 * [Memoria de actividades del curso 22/23](https://docs.google.com/document/d/1R4TyX7Lah-y6mYgkn6rwboGoGjIl_0RxnizdQhAz050/edit?usp=sharing)
 * Miniferia en el OPENLAB organizada para el CPR Las Ramblas y profesorado de Dúrcal. 7 y 9 de junio de 2022.
 * Taller: Jugando con la robótica. Realizado el Cijuela. 6 de abril de 2022.
