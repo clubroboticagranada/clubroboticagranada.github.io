@@ -12,6 +12,8 @@ Cuadrante de talleres de Club Robótica Granada para el curso 23/24. El horario,
 
 ## **Cacharreo**
 Cuadrante de días de Cacharreo de Club Robótica Granada para el curso 23/24. El horario, si no se indica otra cosa, es de 16.30 a 19 horas en el openLAB del Parque de las Ciencias
+<center>
 
 <image src="/img/calendario/cuad_cach.png" alt="Cacharreo">
 
+</center>
