@@ -10,7 +10,7 @@ Cuadrante de talleres de Club Robótica Granada para el curso 23/24. El horario,
 
 <center>
 
-<img src="/img/calendario/cuad_talleres" width="800">
+![Talleres](/img/calendario/cuad_talleres)
 
 (https://atigra.es/)
 ![Talleres](/img/calendario/cuad_talleres.png)
