@@ -17,5 +17,3 @@ Cuadrante de días de Cacharreo de Club Robótica Granada para el curso 23/24. E
 <center>
 
 <image src="/img/calendario/cuad_cach.png" alt="Cacharreo">
-
-</center>
