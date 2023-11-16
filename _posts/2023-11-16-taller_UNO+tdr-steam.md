@@ -40,7 +40,8 @@ Horario: 17 a 19 horas.
 Lugar: [Parque de las Ciencias, sala OPEN LAB](https://goo.gl/maps/aQC1afhE8HR9uaVx8)
 
 
-#### Inscripción ####
+Taller con entrega de material.
+
 ### Inscríbete en el siguiente [**enlace**](https://forms.gle/TVmssQwrNNZmfTkQ9)
 
 <p align="center" >
