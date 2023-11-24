@@ -41,7 +41,7 @@ LA TDR STEAM INCORPORA:
 
 ##### Taller impartido por MANUEL HIDALGO.
 
-##### Fecha: MARTES 28 de noviembre de 2022.
+##### Fecha: MARTES 28 de noviembre de 2023.
 
 
 Horario: 17 a 19 horas.
