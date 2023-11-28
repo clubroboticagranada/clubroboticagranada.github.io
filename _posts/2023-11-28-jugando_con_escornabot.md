@@ -7,7 +7,7 @@ title: Jugando con ESCORNABOT
 
 
 
-Vamos a realizar un taller de [Escornabot](https://escornabot.com/web/es/what) pensado para chicas y chicos de 8 a 12 años.
+Vamos a realizar un taller de [Escornabot](https://escornabot.com/es/que) pensado para chicas y chicos de 8 a 12 años.
 
 
 Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar la robótica y la programación a los niños y niñas.
