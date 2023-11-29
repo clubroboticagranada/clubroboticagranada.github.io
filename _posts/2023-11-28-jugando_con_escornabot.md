@@ -17,7 +17,6 @@ El objetivo es descubrir el mundo de la robótica y la programación jugando.
 
 ### Jueves 14 de diciembre de 2023 de 17:00 a 18:30 horas.
 
-###### Taller impartido por GUIOMAR MOLINA GARCÍA.
 
 
 #### Número de participantes : 20
