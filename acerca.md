@@ -5,7 +5,7 @@ permalink: /acerca/
 ---
 
 ## ¿Quienes somos?
-Somos una Organización de ayuda a la difusión y democratización de la tecnología, la programación y la robótica en la sociedad, constituida por personas entusiastas de la Tecnología y la Ciencia.
+Somos una Organización de ayuda a la difusión y democratización de la tecnología, la programación y la robótica educativa en la sociedad, constituida por personas entusiastas de la Tecnología y la Ciencia.
 
 
 
