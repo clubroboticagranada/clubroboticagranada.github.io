@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Jugando con ESCORNABOT
+title: Jugando con ESCORNABOT (E24)
 ---
 
-![](http://clubroboticagranada.github.io/images/escornabot_diy.jpg )
+<p align="center" >
+<img src="/images/escornabot2.jpg" width="600" height="400"/>
+
+</p>
 
 
 
@@ -15,11 +18,13 @@ Escornabot es un proyecto de código/hardware abierto cuyo objetivo es acercar l
 El objetivo es descubrir el mundo de la robótica y la programación jugando.
 
 
-### Jueves 14 de diciembre de 2023 de 17:00 a 18:30 horas.
+### Jueves 18 de enero de 2024. 17:00 horas.
+
+#### Tendrá una duración de UNA HORA.
 
 
 
-#### Número de participantes : 20
+#### Taller impartido por GUIOMAR MOLINA.
 
 #### Lugar: OPENLAB del Parque de las Ciencias de Granada.
 
@@ -27,4 +32,4 @@ El objetivo es descubrir el mundo de la robótica y la programación jugando.
 
 
 
-### Inscríbete en el siguiente [ENLACE](https://forms.gle/5y2dDxT64TFXFZov5)
+### Inscríbete en el siguiente [ENLACE](https://forms.gle/JVYjW2kdEvoTyhsV7)
