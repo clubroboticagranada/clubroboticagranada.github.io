@@ -38,4 +38,4 @@ Se necesita tener instalado en el portátil el programa [AB-Connector v5](http:/
 #### Inscríbete en el siguiente [**ENLACE**](https://forms.gle/KrUZiFhYPzyQuv2C8)
 
 ##### NOTA SOBRE EL ACCESO A INTERNET.
-El acceso a internet que tenemos en el Openlab es facilitado por gentileza del Parque de las Ciencias. Algunas veces, debido al cortafuegos y los filtros que tiene, internet no funciona como nos gustaría. Por eso, a partir de ahora, cualquier taller que realicemos y sea necesario el uso de internet os pediremos que utilicéis vuestros datos móviles para poder garantizar una buena conexión. 
+El acceso a internet que tenemos en el Openlab es facilitado por el Parque de las Ciencias. Algunas veces, debido al cortafuegos y los filtros que tiene, internet no funciona como nos gustaría. Por eso, a partir de ahora, cualquier taller que realicemos y sea necesario el uso de internet os pediremos que utilicéis vuestros datos móviles para poder garantizar una buena conexión. 
