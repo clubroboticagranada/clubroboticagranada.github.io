@@ -5,7 +5,7 @@ title: Programando ESCORNABOT con ARDUINOBLOCKS
 
 
 
-<img src="http://clubroboticagranada.github.io/images/singularis2.jpg" width="500" />
+<img src="http://clubroboticagranada.github.io/images/singularis2.jpg" width="600" />
 
 El robot Escornabot es un recurso educativo apropiado para desarrollar el Pensamiento Computacional en edades tempranas, por su facilidad de programar sus movimientos y su utilización transversal en casi todos los contenidos educativos de aprendizaje.
 
