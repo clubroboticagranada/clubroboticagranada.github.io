@@ -30,6 +30,7 @@ Se necesita tener instalado en el portátil el programa [AB-Connector v5](http:/
 
 
 
+### [Enlace a la documentación del taller](https://leobotmanuel.github.io/Programando-Escornabot/)
 
 
 
