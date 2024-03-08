@@ -11,7 +11,7 @@ title: Taller de iniciación a Makey Makey
 
 
 
-Esta placa es ideal para trabajar en EL aula con alumnado de primaria.
+Esta placa es ideal para trabajar en el aula con alumnado de primaria.
 
 Impartido por ***Guiomar Molina***
 
