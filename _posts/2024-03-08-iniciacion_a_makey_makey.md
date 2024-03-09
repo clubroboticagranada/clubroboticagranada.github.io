@@ -26,7 +26,7 @@ Impartido por ***Guiomar Molina***
 
 
 
-
+**Es necesario traer ordenador portátil.**
 
 ### Inscripción
 
