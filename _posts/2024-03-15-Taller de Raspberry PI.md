@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller de iniciación a Makey Makey
+title: Taller de Raspberry Pi
 ---
 <img src="/images/Raspberry_Pi.jpg" width="600" />
 
