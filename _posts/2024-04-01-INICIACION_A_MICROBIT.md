@@ -23,10 +23,10 @@ El taller está dirigido a **todas las edades**.
 
 #### Impartido por Guiomar Molina.
 
-### Martes 9 de abril de 2024, de 17:00 a 18:30 horas.
+### Martes 9 de abril de 2024, de 17:00 a 18:00 horas.
 
 
-
+#### Tráete tu ordenador portátil.
 
 #### Lugar: OPENLAB, Parque de las Ciencias.
 
