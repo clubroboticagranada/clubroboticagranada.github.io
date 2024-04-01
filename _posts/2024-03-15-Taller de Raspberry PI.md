@@ -39,7 +39,7 @@ El taller se desarrolla en dos sesiones:
 
 
 Enlace a la documentación (estará disponible para preparar el S.O. en la microSD antes del taller)
-[https://leobotmanuel.github.io/TallerRaspberryPi/](https://leobotmanuel.github.io/Taller_RaspberryPi/)
+[https://leobotmanuel.github.io/Taller_RaspberryPi/](https://leobotmanuel.github.io/Taller_RaspberryPi/)
 
 
 
