@@ -16,7 +16,9 @@ Gracias a la gran cantidad de sensores que incorpora, sólo con la tarjeta se pu
 
 El taller está dirigido a **todas las edades**.
 
-![](http://clubroboticagranada.github.io/images/microbit.jpg)
+
+
+<img src="/images/microbit.jpg" width="600" />
 
 #### Impartido por Guiomar Molina.
 
