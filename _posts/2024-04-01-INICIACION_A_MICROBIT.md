@@ -4,8 +4,9 @@ title: Iniciación a Micro:bit
 ---
 
 
+<img src="/images/microbit-front.png" width="600" />
 
-![](http://clubroboticagranada.github.io/images/microbit-front.png)
+
 
 Micro:bit es una pequeña tarjeta programable, diseñada para que aprender a programar sea fácil, divertido y al alcance de todos.
 
