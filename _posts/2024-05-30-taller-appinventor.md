@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TALLER DE APPINVENTOR
+title: TALLER DE APP INVENTOR
 
 ---
 
