@@ -15,7 +15,7 @@ En este proyecto se va a utilizar Escornabot para aprender a programar el robot 
 
 
 
-Previamente se tiene que conocer el hardware del robot para desarrolar el programa de control en el microcontrolador del robot.
+Previamente se tiene que conocer el hardware del robot para desarrollar el programa de control en el microcontrolador del robot.
 
 
 
