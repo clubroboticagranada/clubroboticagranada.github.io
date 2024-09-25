@@ -23,7 +23,7 @@ Previamente se tiene que conocer el hardware del robot para desarrollar el progr
 * Lugar: OpenLab (Parque de las Ciencias)
 * Hora: 17:00 a 19:00.
 
-#### El taller será impartido por Manuel Hidalgo.
+#### El taller será dirigido por Manuel Hidalgo.
 
 Se necesita tener instalado en el portátil el programa [AB-Connector v5](http://www.arduinoblocks.com/web/site/abconnector5) para poder utilizar el lenguaje de programación visual [Arduinoblocks](http://www.arduinoblocks.com).
 
