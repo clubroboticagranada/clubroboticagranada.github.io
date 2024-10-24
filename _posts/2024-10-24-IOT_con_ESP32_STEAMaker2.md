@@ -43,4 +43,11 @@ Puedes descargarlo desde [http://www.arduinoblocks.com/web/site/abconnector5](ht
 
 ### Inscríbete en el siguiente [ENLACE](https://forms.gle/wuruWwLDeFfM9r4z5)
 
-Aforo máximo 20 personas.
+
+##### NOTA SOBRE EL ACCESO A INTERNET.
+El acceso a internet que tenemos en el Openlab es facilitado por el Parque de las Ciencias. Algunas veces, debido al cortafuegos y los filtros que tiene, internet no funciona como nos gustaría. Por eso, a partir de ahora, cualquier taller que realicemos y sea necesario el uso de internet os pediremos que utilicéis vuestros datos móviles para poder garantizar una buena conexión.
+
+#### El taller se celebrará siempre que haya más de 10 personas inscritas.
+
+
+#### Aforo máximo 20 personas.
