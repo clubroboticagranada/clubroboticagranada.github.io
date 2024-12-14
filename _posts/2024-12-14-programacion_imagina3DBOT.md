@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programación del robot Imagina 3DBOT con ArduinoBlocks
+title: Programación del robot 3dBot con ArduinoBlocks
 ---
 
 
@@ -26,7 +26,7 @@ Se necesita tener instalado en el portátil el programa [AB-Connector v5](http:/
 
 
 
-### [Enlace al documento de trabajo](https://fgcoca.github.io/3DBot-con-ESP32-STEAMakers/)
+### [Enlace al repositorio de trabajo](https://fgcoca.github.io/3DBot-con-ESP32-STEAMakers/)
 
 
 
