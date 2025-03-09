@@ -2,7 +2,7 @@
 layout: post
 title: Taller de Comunicaciones LoRa
 ---
-<img src="/images/cansat_prototipo" width="600" />
+<img src="/images/cansat_prototipo.jpg" width="400" />
 
 LoRa es una tecnología de comunicación patentada, que está pensada para comunicaciones con un bajo consumo de energía, largo alcance y buena inmunidad frente al ruido, lo que la hace ideal para aplicaciones IoT.
 
