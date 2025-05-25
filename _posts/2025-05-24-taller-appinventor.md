@@ -25,7 +25,7 @@ App Inventor es una herramienta ideal para principiantes en programación, educa
 #### El taller se desarrolla en dos sesiones.
 
 * Lugar: [Parque de las Ciencias, sala OPENLAB](https://goo.gl/maps/aQC1afhE8HR9uaVx8)
-*  **Martes 4 y 5 de junio de 2025** de 17:00 a 19:00.
+*  **Miércoles 4 y Jueves 5 de junio de 2025** de 17:00 a 19:00.
 
 
 ##### Es necesario traer ordenador y teléfono móvil y/o tablet para ver los resultados.
