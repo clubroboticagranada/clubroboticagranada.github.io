@@ -1,4 +1,4 @@
-# Calendario de actividades para el curso 24/25
+# Calendario de actividades para el curso 25/26
 Este calendario puede sufrir modificaciones.
 
 ## **Talleres**
