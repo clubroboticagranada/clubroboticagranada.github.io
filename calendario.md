@@ -9,4 +9,4 @@
 🔧 Talleres con convocatoria específica. Se publicarán en:
 * ➡️ Esta web
 * ➡️ Redes sociales
-* ➡️ Grupo TM del club
+* ➡️ Grupo de Telegram del club
