@@ -1,8 +1,12 @@
-# Calendario de actividades para el curso 25/26
-Este calendario puede sufrir modificaciones.
+# 🟦 CALENDARIO DE ACTIVIDADES CURSO 2025/2026 🟦
 
-## **Talleres**
+🗓️ Inicio: 1 de octubre de 2025
+📍 Lugar: Sala openLAB del Parque de las Ciencias
+🕔 Horario: Miércoles y jueves, de 17:00 a 19:00 h
 
-Cuadrante de actividades de Club Robótica Granada para el curso 25/26. El horario, si no se indica otra cosa, es de 17 a 19 horas en el openLAB del Parque de las Ciencias.
+📌 Estaremos allí cada semana para ayudarte y acompañarte en todo lo que necesites.
 
-<image src="/img/calendario/pendiente.png" alt="Actividades">  
+🔧 Talleres con convocatoria específica. Se publicarán en:
+➡️ Esta web
+➡️ Redes sociales
+➡️ Grupo TM del club
