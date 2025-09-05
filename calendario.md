@@ -1,4 +1,4 @@
-# 🟦 CALENDARIO DE ACTIVIDADES CURSO 2025/2026 🟦
+# CALENDARIO DE ACTIVIDADES CURSO 2025/2026
 
 🗓️ Inicio: 1 de octubre de 2025  
 📍 Lugar: Sala openLAB del Parque de las Ciencias  
